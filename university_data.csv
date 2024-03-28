@@ -1,0 +1,1501 @@
+University ID,University Name,Location (State),Tier,Type,Department,Entrance Exam Cut-off,Average GPA,Average Salary (INR),Percentage Placed,Faculty Members,Faculty with PhD (%),Student-to-Faculty Ratio
+1,University 1,Karnataka,Tier 1,Government,Computer Science,6191,8.1,1403462,77.83,94,47.55,15.01
+1,University 1,Tamil Nadu,Tier 2,Government,Electrical Engineering,1769,8.53,627069,68.49,40,57.05,19.17
+1,University 1,Delhi,Tier 1,Government,Mechanical Engineering,9666,8.14,1733257,61.87,34,47.36,21.78
+2,University 2,Tamil Nadu,Tier 3,Private,Computer Science,2528,6.16,828178,87.21,92,23.9,24.23
+2,University 2,Karnataka,Tier 2,Private,Electrical Engineering,8513,6.34,948531,69.64,191,49.71,10.52
+2,University 2,Maharashtra,Tier 2,Private,Mechanical Engineering,8555,7.09,508261,68.32,23,31.09,24.54
+3,University 3,Uttar Pradesh,Tier 2,Private,Computer Science,1995,8.09,1884398,63.54,59,70.67,21.21
+3,University 3,Delhi,Tier 2,Government,Electrical Engineering,5859,8.12,816588,65.64,34,29.92,10.23
+3,University 3,Maharashtra,Tier 1,Private,Mechanical Engineering,3695,6.02,436330,67.95,155,63.74,21.57
+4,University 4,Delhi,Tier 2,Government,Computer Science,7184,9.2,1379111,77.98,52,23.81,14.66
+4,University 4,Delhi,Tier 3,Private,Electrical Engineering,9154,7.96,791234,64.78,150,65.65,18.42
+4,University 4,Tamil Nadu,Tier 1,Government,Mechanical Engineering,6134,6.39,1896283,64.32,82,73.75,17.13
+5,University 5,Delhi,Tier 2,Government,Computer Science,8574,8.12,1546862,90.22,55,76.57,18.98
+5,University 5,Tamil Nadu,Tier 2,Private,Electrical Engineering,3693,7.6,1067595,67.46,49,73.0,14.87
+5,University 5,Karnataka,Tier 1,Government,Mechanical Engineering,8392,6.95,1284346,77.08,135,41.15,14.57
+6,University 6,Tamil Nadu,Tier 1,Private,Computer Science,4748,8.42,1886409,73.5,78,39.39,17.78
+6,University 6,Maharashtra,Tier 1,Private,Electrical Engineering,7585,9.37,1663453,87.85,150,38.05,14.27
+6,University 6,Maharashtra,Tier 3,Government,Mechanical Engineering,5737,7.44,1742646,71.15,148,34.37,12.17
+7,University 7,Karnataka,Tier 2,Private,Computer Science,6535,8.07,1532310,90.46,142,34.53,22.05
+7,University 7,Delhi,Tier 2,Private,Electrical Engineering,8125,7.88,322671,93.41,143,50.49,20.44
+7,University 7,Tamil Nadu,Tier 3,Private,Mechanical Engineering,7546,8.49,442483,85.81,71,76.43,15.96
+8,University 8,Uttar Pradesh,Tier 1,Government,Computer Science,9155,8.57,674705,96.99,61,35.48,19.9
+8,University 8,Uttar Pradesh,Tier 1,Private,Electrical Engineering,3049,9.49,675037,95.89,56,72.96,12.83
+8,University 8,Maharashtra,Tier 3,Government,Mechanical Engineering,3255,9.14,1879159,76.18,180,58.52,11.26
+9,University 9,Karnataka,Tier 2,Private,Computer Science,9445,6.03,1124792,86.54,112,37.04,14.58
+9,University 9,Uttar Pradesh,Tier 2,Government,Electrical Engineering,1956,6.78,1438848,60.72,161,39.52,21.2
+9,University 9,Tamil Nadu,Tier 1,Private,Mechanical Engineering,5555,7.78,738741,70.61,177,78.38,15.9
+10,University 10,Tamil Nadu,Tier 3,Private,Computer Science,5893,8.26,1718175,94.57,80,49.95,18.58
+10,University 10,Maharashtra,Tier 1,Private,Electrical Engineering,3205,9.34,1646932,95.34,143,20.93,23.92
+10,University 10,Maharashtra,Tier 2,Government,Mechanical Engineering,1606,9.37,948307,71.78,179,71.07,14.75
+11,University 11,Uttar Pradesh,Tier 1,Private,Computer Science,6854,8.95,1714466,82.8,43,32.54,20.07
+11,University 11,Uttar Pradesh,Tier 3,Government,Electrical Engineering,2409,7.13,458823,87.88,62,62.53,18.29
+11,University 11,Uttar Pradesh,Tier 3,Private,Mechanical Engineering,6986,6.9,1097079,96.53,154,50.09,21.97
+12,University 12,Maharashtra,Tier 2,Private,Computer Science,7002,7.18,706619,83.15,51,54.7,10.54
+12,University 12,Maharashtra,Tier 2,Government,Electrical Engineering,2148,8.94,527897,61.22,199,22.33,14.55
+12,University 12,Tamil Nadu,Tier 1,Government,Mechanical Engineering,4124,6.95,1725412,78.29,25,23.1,17.97
+13,University 13,Tamil Nadu,Tier 3,Private,Computer Science,8987,6.46,1582417,80.65,177,22.46,15.98
+13,University 13,Tamil Nadu,Tier 2,Government,Electrical Engineering,9932,6.65,1616669,93.44,156,61.31,10.87
+13,University 13,Uttar Pradesh,Tier 1,Government,Mechanical Engineering,8805,6.33,1368632,86.41,136,58.3,17.75
+14,University 14,Delhi,Tier 2,Government,Computer Science,9130,6.87,367215,66.35,105,20.86,11.74
+14,University 14,Delhi,Tier 3,Government,Electrical Engineering,3141,8.99,491475,67.01,163,25.87,17.37
+14,University 14,Karnataka,Tier 1,Private,Mechanical Engineering,5452,7.39,847337,97.97,119,22.72,15.62
+15,University 15,Uttar Pradesh,Tier 3,Private,Computer Science,5611,8.16,488751,85.7,147,58.18,22.01
+15,University 15,Karnataka,Tier 2,Government,Electrical Engineering,3427,6.45,1025948,81.82,120,57.56,22.31
+15,University 15,Uttar Pradesh,Tier 3,Private,Mechanical Engineering,5380,6.24,1124926,75.09,54,40.19,19.84
+16,University 16,Delhi,Tier 2,Private,Computer Science,1417,6.91,303267,87.72,133,57.74,23.16
+16,University 16,Karnataka,Tier 1,Government,Electrical Engineering,8164,6.99,1130857,76.94,171,68.41,24.86
+16,University 16,Karnataka,Tier 2,Government,Mechanical Engineering,3143,7.19,700573,82.47,31,45.74,21.26
+17,University 17,Maharashtra,Tier 3,Government,Computer Science,6917,9.16,1887261,79.86,105,37.86,11.5
+17,University 17,Karnataka,Tier 1,Government,Electrical Engineering,9082,6.32,1407739,98.0,147,48.95,17.4
+17,University 17,Delhi,Tier 1,Government,Mechanical Engineering,5491,7.15,966490,68.51,72,67.49,21.84
+18,University 18,Delhi,Tier 1,Private,Computer Science,6305,6.2,1212606,62.23,182,73.26,15.26
+18,University 18,Uttar Pradesh,Tier 3,Private,Electrical Engineering,8241,8.93,1027952,64.04,26,45.57,13.34
+18,University 18,Maharashtra,Tier 2,Government,Mechanical Engineering,3681,6.51,912380,63.39,102,54.88,22.95
+19,University 19,Karnataka,Tier 1,Government,Computer Science,8494,9.45,817923,75.05,178,48.9,15.67
+19,University 19,Tamil Nadu,Tier 2,Private,Electrical Engineering,5268,6.04,1090141,62.25,80,69.37,21.16
+19,University 19,Tamil Nadu,Tier 1,Private,Mechanical Engineering,1504,7.31,590160,63.32,180,33.42,24.45
+20,University 20,Karnataka,Tier 1,Private,Computer Science,7316,6.15,428148,61.74,183,53.23,24.54
+20,University 20,Uttar Pradesh,Tier 3,Government,Electrical Engineering,4376,8.44,1270240,85.1,137,43.05,21.06
+20,University 20,Tamil Nadu,Tier 2,Private,Mechanical Engineering,6063,7.38,1634679,84.81,27,30.18,19.7
+21,University 21,Uttar Pradesh,Tier 2,Private,Computer Science,5964,9.41,1893023,78.13,164,36.79,16.17
+21,University 21,Delhi,Tier 1,Government,Electrical Engineering,2581,6.27,738661,97.99,66,75.15,11.24
+21,University 21,Uttar Pradesh,Tier 3,Government,Mechanical Engineering,6124,6.09,1410389,92.42,196,42.6,21.24
+22,University 22,Maharashtra,Tier 2,Government,Computer Science,7938,7.99,451456,78.75,118,28.03,10.21
+22,University 22,Karnataka,Tier 1,Government,Electrical Engineering,6989,9.2,1110006,90.76,184,65.42,15.67
+22,University 22,Delhi,Tier 2,Government,Mechanical Engineering,6997,6.88,1664652,84.25,132,65.42,10.7
+23,University 23,Uttar Pradesh,Tier 2,Private,Computer Science,1770,7.82,861419,92.66,152,25.3,21.88
+23,University 23,Maharashtra,Tier 3,Government,Electrical Engineering,2252,8.17,1834026,68.52,185,57.04,24.71
+23,University 23,Uttar Pradesh,Tier 2,Private,Mechanical Engineering,7941,7.94,1080722,96.17,71,52.85,16.76
+24,University 24,Karnataka,Tier 2,Government,Computer Science,4177,9.02,1596516,91.86,157,75.6,17.38
+24,University 24,Karnataka,Tier 1,Private,Electrical Engineering,8941,7.72,894124,68.37,62,34.41,11.14
+24,University 24,Maharashtra,Tier 3,Government,Mechanical Engineering,7238,7.4,1372647,67.2,151,40.74,23.45
+25,University 25,Tamil Nadu,Tier 3,Government,Computer Science,1671,6.6,1994329,68.95,40,30.14,14.18
+25,University 25,Delhi,Tier 2,Government,Electrical Engineering,7981,6.42,1715400,74.24,65,41.86,17.55
+25,University 25,Delhi,Tier 3,Government,Mechanical Engineering,7937,8.8,1522869,63.27,113,29.42,15.66
+26,University 26,Maharashtra,Tier 2,Private,Computer Science,2276,9.45,1824350,96.96,33,57.1,15.53
+26,University 26,Uttar Pradesh,Tier 1,Private,Electrical Engineering,5621,6.52,1607506,88.53,130,70.67,21.24
+26,University 26,Karnataka,Tier 1,Private,Mechanical Engineering,8673,7.24,1121106,69.7,138,42.64,10.3
+27,University 27,Maharashtra,Tier 1,Government,Computer Science,7229,7.15,872203,69.33,32,55.62,20.19
+27,University 27,Tamil Nadu,Tier 1,Government,Electrical Engineering,7371,7.88,837198,89.82,132,53.87,15.68
+27,University 27,Delhi,Tier 2,Private,Mechanical Engineering,6401,8.13,1212826,74.24,128,39.82,24.01
+28,University 28,Delhi,Tier 2,Government,Computer Science,2733,7.28,372303,66.43,94,25.27,22.09
+28,University 28,Maharashtra,Tier 3,Government,Electrical Engineering,9434,6.06,1090756,99.3,25,43.87,24.54
+28,University 28,Karnataka,Tier 3,Private,Mechanical Engineering,1117,6.9,1330117,86.75,98,52.1,17.15
+29,University 29,Delhi,Tier 1,Private,Computer Science,9915,7.78,1254480,81.19,20,56.64,14.33
+29,University 29,Delhi,Tier 2,Government,Electrical Engineering,7988,7.86,582272,74.77,29,52.92,18.23
+29,University 29,Uttar Pradesh,Tier 1,Private,Mechanical Engineering,2619,6.89,1804868,60.11,28,55.74,17.07
+30,University 30,Tamil Nadu,Tier 2,Government,Computer Science,8984,8.98,1885083,98.6,97,75.98,24.86
+30,University 30,Uttar Pradesh,Tier 3,Government,Electrical Engineering,3560,8.59,1392501,61.92,112,28.39,21.93
+30,University 30,Karnataka,Tier 2,Government,Mechanical Engineering,5820,6.65,1761074,86.61,173,74.47,14.74
+31,University 31,Uttar Pradesh,Tier 1,Private,Computer Science,7943,7.62,765317,81.59,82,50.16,13.48
+31,University 31,Maharashtra,Tier 3,Government,Electrical Engineering,5033,7.9,1253959,69.16,58,27.01,24.1
+31,University 31,Tamil Nadu,Tier 2,Private,Mechanical Engineering,8667,8.78,1616128,81.34,174,67.32,12.28
+32,University 32,Maharashtra,Tier 1,Government,Computer Science,1950,6.5,581173,88.56,24,72.61,15.13
+32,University 32,Delhi,Tier 3,Government,Electrical Engineering,7371,7.6,1651351,80.09,155,29.0,13.44
+32,University 32,Karnataka,Tier 1,Private,Mechanical Engineering,1094,8.09,637827,81.71,62,55.94,22.4
+33,University 33,Uttar Pradesh,Tier 2,Private,Computer Science,7166,7.62,376077,84.6,160,28.35,11.51
+33,University 33,Maharashtra,Tier 3,Private,Electrical Engineering,1827,8.08,995275,82.61,87,67.41,10.35
+33,University 33,Uttar Pradesh,Tier 1,Private,Mechanical Engineering,7024,7.48,798716,64.17,60,75.53,16.76
+34,University 34,Delhi,Tier 1,Private,Computer Science,2645,6.65,679862,96.83,82,38.69,13.41
+34,University 34,Delhi,Tier 3,Government,Electrical Engineering,9393,8.81,1320020,84.15,54,43.89,18.06
+34,University 34,Tamil Nadu,Tier 2,Private,Mechanical Engineering,9070,7.21,1144193,96.74,147,33.48,16.79
+35,University 35,Tamil Nadu,Tier 2,Private,Computer Science,2990,6.58,1106388,96.59,196,66.83,14.16
+35,University 35,Uttar Pradesh,Tier 2,Government,Electrical Engineering,1966,9.41,319816,65.95,137,71.64,18.03
+35,University 35,Maharashtra,Tier 3,Government,Mechanical Engineering,2759,6.23,433554,68.4,81,32.31,12.86
+36,University 36,Delhi,Tier 1,Private,Computer Science,8311,7.98,1498097,71.76,134,47.2,17.87
+36,University 36,Karnataka,Tier 1,Private,Electrical Engineering,6797,8.68,1534816,73.37,74,76.77,15.6
+36,University 36,Uttar Pradesh,Tier 3,Private,Mechanical Engineering,7305,7.43,1978811,93.59,154,59.54,10.41
+37,University 37,Tamil Nadu,Tier 3,Government,Computer Science,9519,6.36,778446,82.78,70,59.16,13.57
+37,University 37,Uttar Pradesh,Tier 3,Private,Electrical Engineering,6207,8.53,1278039,92.27,163,43.83,20.02
+37,University 37,Delhi,Tier 2,Government,Mechanical Engineering,1822,9.14,1616870,85.33,180,32.47,10.4
+38,University 38,Delhi,Tier 3,Private,Computer Science,2308,7.47,701921,96.42,167,40.15,22.38
+38,University 38,Tamil Nadu,Tier 3,Government,Electrical Engineering,5491,8.91,1296261,90.95,156,46.17,14.42
+38,University 38,Karnataka,Tier 2,Private,Mechanical Engineering,2387,6.49,1605289,82.63,78,73.67,22.0
+39,University 39,Maharashtra,Tier 2,Government,Computer Science,3573,8.6,795553,85.34,122,33.08,19.68
+39,University 39,Karnataka,Tier 2,Private,Electrical Engineering,9996,6.06,1314929,81.19,61,54.59,14.11
+39,University 39,Maharashtra,Tier 1,Government,Mechanical Engineering,8141,8.9,1874486,64.26,105,28.21,23.5
+40,University 40,Tamil Nadu,Tier 2,Private,Computer Science,7136,7.73,524137,96.58,173,44.26,21.56
+40,University 40,Uttar Pradesh,Tier 2,Government,Electrical Engineering,3866,6.32,1296121,62.73,30,37.32,15.34
+40,University 40,Maharashtra,Tier 3,Government,Mechanical Engineering,2333,7.67,716366,98.16,169,63.95,13.22
+41,University 41,Karnataka,Tier 3,Private,Computer Science,2762,8.95,1229616,79.85,128,29.28,19.35
+41,University 41,Uttar Pradesh,Tier 1,Government,Electrical Engineering,3343,8.55,1906872,88.2,123,46.09,13.7
+41,University 41,Tamil Nadu,Tier 2,Government,Mechanical Engineering,5203,8.43,1040829,60.21,31,41.66,11.37
+42,University 42,Tamil Nadu,Tier 1,Government,Computer Science,6136,9.33,1180438,80.85,31,52.51,23.09
+42,University 42,Delhi,Tier 1,Government,Electrical Engineering,6604,8.42,620197,99.22,108,58.8,20.4
+42,University 42,Maharashtra,Tier 1,Private,Mechanical Engineering,9238,6.15,1902575,97.01,170,53.35,17.1
+43,University 43,Delhi,Tier 3,Government,Computer Science,9007,9.4,699953,89.8,135,70.67,14.79
+43,University 43,Uttar Pradesh,Tier 3,Government,Electrical Engineering,8693,8.09,421826,82.43,64,24.62,20.44
+43,University 43,Uttar Pradesh,Tier 3,Government,Mechanical Engineering,9230,7.1,1655267,91.63,172,64.27,17.8
+44,University 44,Delhi,Tier 2,Private,Computer Science,9502,7.62,759297,60.85,32,51.74,24.09
+44,University 44,Tamil Nadu,Tier 3,Government,Electrical Engineering,3032,7.41,1946836,79.19,35,72.42,24.76
+44,University 44,Uttar Pradesh,Tier 2,Government,Mechanical Engineering,9190,7.47,1492324,89.29,196,26.63,15.32
+45,University 45,Uttar Pradesh,Tier 2,Private,Computer Science,5388,6.15,1570464,96.41,92,26.57,15.87
+45,University 45,Karnataka,Tier 3,Private,Electrical Engineering,2828,8.75,538506,83.54,58,72.75,24.17
+45,University 45,Tamil Nadu,Tier 2,Government,Mechanical Engineering,8878,9.47,1272346,76.06,112,58.98,19.12
+46,University 46,Delhi,Tier 2,Private,Computer Science,8274,6.62,1465529,61.47,22,69.57,22.01
+46,University 46,Maharashtra,Tier 1,Government,Electrical Engineering,2913,7.84,1356233,80.61,101,61.76,12.31
+46,University 46,Tamil Nadu,Tier 2,Government,Mechanical Engineering,8287,8.62,1146936,83.72,161,71.61,16.86
+47,University 47,Tamil Nadu,Tier 3,Private,Computer Science,2218,9.34,1636651,61.42,59,75.9,21.03
+47,University 47,Uttar Pradesh,Tier 3,Private,Electrical Engineering,6370,8.53,1460793,81.3,56,33.21,20.25
+47,University 47,Delhi,Tier 1,Government,Mechanical Engineering,6233,7.73,806079,80.64,134,69.48,15.22
+48,University 48,Uttar Pradesh,Tier 3,Government,Computer Science,2312,9.08,569458,94.73,111,71.03,23.01
+48,University 48,Maharashtra,Tier 1,Government,Electrical Engineering,3604,8.44,1869123,84.74,185,31.35,23.22
+48,University 48,Delhi,Tier 2,Government,Mechanical Engineering,6150,8.89,827007,73.4,177,74.52,10.02
+49,University 49,Uttar Pradesh,Tier 2,Government,Computer Science,1294,6.68,788972,84.68,132,53.59,11.74
+49,University 49,Uttar Pradesh,Tier 1,Government,Electrical Engineering,2007,6.37,1527165,60.74,82,43.53,12.69
+49,University 49,Delhi,Tier 1,Private,Mechanical Engineering,8059,8.41,438563,72.04,36,66.26,20.63
+50,University 50,Maharashtra,Tier 2,Private,Computer Science,7353,9.05,1779359,87.04,183,58.85,18.92
+50,University 50,Karnataka,Tier 3,Government,Electrical Engineering,8813,7.3,1965970,70.1,45,29.54,17.03
+50,University 50,Karnataka,Tier 1,Government,Mechanical Engineering,7540,8.99,1024238,91.79,176,37.9,22.6
+51,University 51,Karnataka,Tier 2,Government,Computer Science,6658,9.04,1786205,66.04,111,63.88,23.64
+51,University 51,Delhi,Tier 3,Private,Electrical Engineering,2682,6.96,690530,72.48,77,73.65,13.45
+51,University 51,Delhi,Tier 3,Private,Mechanical Engineering,4056,8.28,1855979,82.51,46,78.09,12.78
+52,University 52,Maharashtra,Tier 1,Government,Computer Science,9711,8.7,543373,81.21,150,67.81,14.41
+52,University 52,Karnataka,Tier 2,Government,Electrical Engineering,8725,7.62,1396413,64.69,36,56.44,13.71
+52,University 52,Maharashtra,Tier 2,Private,Mechanical Engineering,8099,6.22,1338836,70.76,107,45.99,24.77
+53,University 53,Maharashtra,Tier 1,Private,Computer Science,2389,9.41,1193093,71.67,64,65.42,24.29
+53,University 53,Maharashtra,Tier 3,Private,Electrical Engineering,4762,6.37,1785200,64.11,65,28.55,17.48
+53,University 53,Karnataka,Tier 1,Private,Mechanical Engineering,7047,9.29,947008,80.71,52,72.95,11.24
+54,University 54,Delhi,Tier 2,Private,Computer Science,4174,6.46,978758,68.03,141,68.04,13.0
+54,University 54,Karnataka,Tier 1,Private,Electrical Engineering,7090,6.43,1267290,61.26,25,57.0,19.19
+54,University 54,Maharashtra,Tier 2,Private,Mechanical Engineering,6383,9.32,1608507,92.07,81,56.74,17.27
+55,University 55,Tamil Nadu,Tier 2,Private,Computer Science,1021,7.58,398818,61.63,125,46.32,20.87
+55,University 55,Karnataka,Tier 3,Private,Electrical Engineering,2560,9.05,1499670,78.81,192,30.93,21.85
+55,University 55,Tamil Nadu,Tier 2,Private,Mechanical Engineering,8057,8.29,1517060,99.85,124,49.6,11.22
+56,University 56,Tamil Nadu,Tier 3,Government,Computer Science,7236,7.46,1840448,93.62,68,72.1,20.91
+56,University 56,Delhi,Tier 1,Private,Electrical Engineering,4453,9.46,601207,81.73,198,54.72,16.58
+56,University 56,Delhi,Tier 2,Private,Mechanical Engineering,2394,6.99,1435228,68.43,37,57.89,21.0
+57,University 57,Tamil Nadu,Tier 2,Private,Computer Science,7895,8.11,1229065,69.5,97,50.76,16.2
+57,University 57,Delhi,Tier 1,Private,Electrical Engineering,2525,9.05,922605,80.59,103,55.58,12.45
+57,University 57,Tamil Nadu,Tier 1,Government,Mechanical Engineering,9219,6.9,1336548,73.01,187,55.92,15.95
+58,University 58,Tamil Nadu,Tier 2,Government,Computer Science,1629,6.59,1342377,77.95,95,69.73,16.46
+58,University 58,Karnataka,Tier 3,Private,Electrical Engineering,7656,6.88,1863509,66.7,140,56.33,15.35
+58,University 58,Karnataka,Tier 1,Government,Mechanical Engineering,4568,8.47,641815,83.41,153,32.35,11.68
+59,University 59,Uttar Pradesh,Tier 2,Private,Computer Science,1968,7.86,653299,62.07,20,27.33,16.78
+59,University 59,Delhi,Tier 3,Government,Electrical Engineering,2229,8.41,1597076,79.2,62,21.04,14.85
+59,University 59,Delhi,Tier 1,Government,Mechanical Engineering,6342,6.89,1355146,79.55,191,51.93,11.89
+60,University 60,Delhi,Tier 2,Private,Computer Science,1891,8.36,1096657,67.53,27,29.37,13.52
+60,University 60,Uttar Pradesh,Tier 1,Government,Electrical Engineering,6238,9.31,912297,60.7,164,69.85,22.97
+60,University 60,Maharashtra,Tier 3,Private,Mechanical Engineering,5440,8.41,1347328,84.02,50,59.53,15.91
+61,University 61,Delhi,Tier 1,Private,Computer Science,9125,8.3,1976273,84.2,82,78.63,16.1
+61,University 61,Delhi,Tier 1,Government,Electrical Engineering,4230,8.58,719139,86.02,121,39.62,20.01
+61,University 61,Uttar Pradesh,Tier 2,Government,Mechanical Engineering,2000,7.11,1366348,92.71,107,37.81,19.74
+62,University 62,Delhi,Tier 3,Government,Computer Science,5806,7.97,508786,75.54,180,34.25,15.6
+62,University 62,Karnataka,Tier 2,Private,Electrical Engineering,8010,6.59,1802025,90.37,28,42.79,22.95
+62,University 62,Uttar Pradesh,Tier 2,Private,Mechanical Engineering,2177,6.38,583780,75.95,56,34.76,17.15
+63,University 63,Tamil Nadu,Tier 3,Private,Computer Science,7570,6.06,1150538,60.3,66,24.28,24.32
+63,University 63,Karnataka,Tier 3,Government,Electrical Engineering,1140,7.23,1788673,66.65,136,37.09,14.61
+63,University 63,Karnataka,Tier 3,Private,Mechanical Engineering,8311,6.31,1805949,88.65,196,78.6,22.35
+64,University 64,Tamil Nadu,Tier 3,Government,Computer Science,8052,6.65,1830814,64.28,189,31.11,23.77
+64,University 64,Karnataka,Tier 2,Government,Electrical Engineering,6291,6.15,1755465,64.49,160,56.1,22.29
+64,University 64,Karnataka,Tier 1,Private,Mechanical Engineering,5616,8.26,1949017,74.43,189,74.0,15.3
+65,University 65,Uttar Pradesh,Tier 3,Government,Computer Science,6699,6.96,1797618,94.05,186,60.05,11.43
+65,University 65,Karnataka,Tier 2,Government,Electrical Engineering,1482,9.04,1312384,68.67,169,21.42,19.63
+65,University 65,Karnataka,Tier 3,Private,Mechanical Engineering,9841,6.9,1071148,83.78,172,79.27,12.05
+66,University 66,Delhi,Tier 2,Government,Computer Science,7780,8.51,529104,60.63,43,27.7,11.56
+66,University 66,Uttar Pradesh,Tier 2,Private,Electrical Engineering,7764,6.28,1197767,85.81,183,31.51,14.85
+66,University 66,Tamil Nadu,Tier 2,Government,Mechanical Engineering,1707,7.55,1675035,62.7,24,24.2,19.6
+67,University 67,Uttar Pradesh,Tier 3,Private,Computer Science,8979,7.14,1946933,86.78,191,59.71,18.37
+67,University 67,Uttar Pradesh,Tier 3,Private,Electrical Engineering,5211,6.21,1524491,63.55,96,58.1,21.32
+67,University 67,Uttar Pradesh,Tier 2,Private,Mechanical Engineering,1632,8.88,1417195,73.9,159,78.87,17.12
+68,University 68,Delhi,Tier 3,Private,Computer Science,7770,6.53,1571300,89.49,127,34.62,20.07
+68,University 68,Karnataka,Tier 2,Private,Electrical Engineering,8121,8.76,1468544,84.34,57,29.56,10.95
+68,University 68,Karnataka,Tier 1,Government,Mechanical Engineering,7257,7.2,515400,63.51,94,69.52,14.2
+69,University 69,Uttar Pradesh,Tier 2,Government,Computer Science,9453,9.22,1938314,82.98,79,71.09,13.13
+69,University 69,Maharashtra,Tier 2,Private,Electrical Engineering,9785,8.2,491703,81.3,153,28.48,13.18
+69,University 69,Maharashtra,Tier 3,Government,Mechanical Engineering,8842,6.61,844897,68.94,39,54.38,23.99
+70,University 70,Uttar Pradesh,Tier 1,Government,Computer Science,5259,8.12,462624,84.25,73,69.76,14.76
+70,University 70,Tamil Nadu,Tier 1,Private,Electrical Engineering,2048,8.33,1072577,62.73,44,33.95,11.2
+70,University 70,Karnataka,Tier 1,Government,Mechanical Engineering,1845,9.07,1141531,94.06,179,32.96,19.29
+71,University 71,Karnataka,Tier 3,Government,Computer Science,7430,6.21,1915777,78.39,149,49.08,21.31
+71,University 71,Maharashtra,Tier 3,Government,Electrical Engineering,6448,8.74,1376717,64.04,99,61.5,19.27
+71,University 71,Karnataka,Tier 3,Private,Mechanical Engineering,7928,6.81,727387,72.25,71,59.34,22.72
+72,University 72,Uttar Pradesh,Tier 3,Government,Computer Science,8870,7.57,1530844,74.17,174,44.85,22.41
+72,University 72,Delhi,Tier 1,Private,Electrical Engineering,4716,6.04,894305,65.35,168,21.15,13.9
+72,University 72,Uttar Pradesh,Tier 3,Private,Mechanical Engineering,7007,7.87,1838112,72.94,101,23.88,10.64
+73,University 73,Maharashtra,Tier 3,Government,Computer Science,5795,8.26,1633140,93.77,136,49.29,12.25
+73,University 73,Karnataka,Tier 2,Private,Electrical Engineering,8394,7.32,1117052,78.38,40,77.37,12.0
+73,University 73,Maharashtra,Tier 1,Government,Mechanical Engineering,7272,8.83,1352207,70.19,29,75.82,13.8
+74,University 74,Delhi,Tier 3,Government,Computer Science,1775,9.13,1004590,95.58,106,51.1,12.25
+74,University 74,Karnataka,Tier 1,Government,Electrical Engineering,5940,6.13,787510,88.65,128,68.13,11.58
+74,University 74,Maharashtra,Tier 1,Private,Mechanical Engineering,7420,7.36,441214,71.86,158,78.24,24.13
+75,University 75,Tamil Nadu,Tier 3,Government,Computer Science,9964,8.31,1212735,62.75,157,21.26,11.23
+75,University 75,Karnataka,Tier 1,Government,Electrical Engineering,4839,6.8,745377,86.69,68,35.32,13.91
+75,University 75,Maharashtra,Tier 1,Government,Mechanical Engineering,9569,7.67,1617630,98.74,168,27.51,17.12
+76,University 76,Uttar Pradesh,Tier 2,Government,Computer Science,7303,8.62,1358079,84.66,30,22.62,11.66
+76,University 76,Uttar Pradesh,Tier 3,Government,Electrical Engineering,6784,7.32,1533741,77.58,133,76.58,13.61
+76,University 76,Delhi,Tier 3,Private,Mechanical Engineering,3160,8.26,1426370,86.86,138,72.76,13.88
+77,University 77,Uttar Pradesh,Tier 1,Government,Computer Science,8165,7.61,1166183,89.93,154,30.84,10.81
+77,University 77,Tamil Nadu,Tier 1,Private,Electrical Engineering,8003,6.15,1434033,64.32,199,69.07,13.2
+77,University 77,Tamil Nadu,Tier 3,Private,Mechanical Engineering,9652,7.45,1899908,83.61,22,37.85,18.48
+78,University 78,Delhi,Tier 2,Government,Computer Science,7251,8.23,1929311,77.35,155,47.69,10.14
+78,University 78,Maharashtra,Tier 1,Government,Electrical Engineering,1448,6.97,756162,76.06,125,59.45,14.66
+78,University 78,Delhi,Tier 2,Government,Mechanical Engineering,3159,8.74,417235,80.97,109,70.4,22.49
+79,University 79,Maharashtra,Tier 2,Government,Computer Science,8544,8.37,1045182,72.22,75,50.12,11.87
+79,University 79,Delhi,Tier 2,Private,Electrical Engineering,2013,8.08,403892,60.08,122,20.19,19.29
+79,University 79,Karnataka,Tier 1,Government,Mechanical Engineering,3563,7.79,1417698,62.59,99,33.53,20.54
+80,University 80,Uttar Pradesh,Tier 2,Private,Computer Science,4390,6.27,743031,73.37,49,78.92,13.15
+80,University 80,Karnataka,Tier 3,Private,Electrical Engineering,6469,7.15,376256,63.54,135,23.75,22.02
+80,University 80,Tamil Nadu,Tier 1,Private,Mechanical Engineering,6237,8.25,1801584,85.5,167,67.14,11.78
+81,University 81,Karnataka,Tier 3,Government,Computer Science,4471,6.71,816595,74.49,69,29.92,20.5
+81,University 81,Delhi,Tier 2,Government,Electrical Engineering,9186,7.05,1371860,62.25,54,45.78,23.09
+81,University 81,Delhi,Tier 1,Private,Mechanical Engineering,3096,7.52,1767071,79.32,89,57.87,10.75
+82,University 82,Uttar Pradesh,Tier 3,Government,Computer Science,3839,8.55,1915685,62.29,193,56.61,12.03
+82,University 82,Karnataka,Tier 1,Private,Electrical Engineering,7868,6.24,992841,71.29,154,34.82,23.59
+82,University 82,Uttar Pradesh,Tier 2,Government,Mechanical Engineering,8896,8.72,866088,79.5,126,23.76,23.6
+83,University 83,Maharashtra,Tier 1,Private,Computer Science,1689,7.44,1053158,63.46,162,21.31,19.96
+83,University 83,Karnataka,Tier 3,Private,Electrical Engineering,7342,7.38,1294969,76.75,147,57.47,17.42
+83,University 83,Delhi,Tier 2,Government,Mechanical Engineering,4670,6.69,1970103,73.53,134,78.32,19.13
+84,University 84,Maharashtra,Tier 1,Government,Computer Science,7304,6.53,1241763,76.72,90,61.03,18.18
+84,University 84,Delhi,Tier 1,Private,Electrical Engineering,7171,8.53,1526408,91.67,196,52.61,11.23
+84,University 84,Uttar Pradesh,Tier 1,Private,Mechanical Engineering,2537,8.32,1460248,86.76,117,71.72,16.9
+85,University 85,Karnataka,Tier 3,Private,Computer Science,6413,8.82,1397353,99.12,82,49.84,15.1
+85,University 85,Delhi,Tier 2,Government,Electrical Engineering,6774,6.72,1969332,86.39,135,72.23,13.58
+85,University 85,Maharashtra,Tier 2,Private,Mechanical Engineering,8193,7.95,1448993,62.61,150,74.55,18.08
+86,University 86,Karnataka,Tier 3,Private,Computer Science,7744,7.39,928138,91.02,70,31.74,12.8
+86,University 86,Karnataka,Tier 1,Private,Electrical Engineering,9676,8.22,568854,85.71,162,74.91,18.0
+86,University 86,Uttar Pradesh,Tier 2,Private,Mechanical Engineering,3822,8.15,1621836,96.25,133,30.13,17.61
+87,University 87,Karnataka,Tier 1,Government,Computer Science,8167,7.27,1216383,86.17,126,38.79,21.98
+87,University 87,Tamil Nadu,Tier 1,Private,Electrical Engineering,8183,9.46,331852,99.36,40,63.51,14.85
+87,University 87,Karnataka,Tier 2,Private,Mechanical Engineering,9438,6.45,1749796,82.39,116,21.76,22.34
+88,University 88,Uttar Pradesh,Tier 2,Private,Computer Science,7788,9.41,1446332,71.86,197,26.64,21.39
+88,University 88,Maharashtra,Tier 3,Private,Electrical Engineering,3990,8.28,712104,74.31,150,72.79,17.88
+88,University 88,Delhi,Tier 2,Private,Mechanical Engineering,2715,9.17,968590,67.65,94,59.07,19.31
+89,University 89,Maharashtra,Tier 1,Private,Computer Science,2674,8.95,594746,85.37,144,60.57,14.88
+89,University 89,Karnataka,Tier 3,Government,Electrical Engineering,7344,8.29,486368,93.48,106,24.62,15.11
+89,University 89,Uttar Pradesh,Tier 1,Government,Mechanical Engineering,6925,7.26,927220,61.33,136,44.5,21.39
+90,University 90,Karnataka,Tier 1,Government,Computer Science,1392,8.76,441521,86.03,153,60.24,18.41
+90,University 90,Tamil Nadu,Tier 2,Private,Electrical Engineering,7701,7.61,1613379,75.26,54,44.77,22.04
+90,University 90,Tamil Nadu,Tier 1,Government,Mechanical Engineering,1423,8.59,763001,98.65,169,71.5,14.38
+91,University 91,Tamil Nadu,Tier 3,Private,Computer Science,6394,8.82,1817740,98.51,82,53.55,19.42
+91,University 91,Maharashtra,Tier 3,Government,Electrical Engineering,8155,6.39,612229,64.81,183,25.79,13.63
+91,University 91,Maharashtra,Tier 1,Private,Mechanical Engineering,2762,6.79,1441069,89.73,87,72.63,23.16
+92,University 92,Delhi,Tier 2,Private,Computer Science,4198,8.19,585711,69.58,132,37.12,16.44
+92,University 92,Tamil Nadu,Tier 2,Private,Electrical Engineering,2492,7.83,1005860,70.09,120,55.94,11.72
+92,University 92,Delhi,Tier 1,Government,Mechanical Engineering,5577,9.08,1329127,80.7,194,24.93,23.66
+93,University 93,Maharashtra,Tier 3,Private,Computer Science,7748,6.6,1822196,85.25,39,67.33,19.59
+93,University 93,Karnataka,Tier 2,Private,Electrical Engineering,9770,8.28,1741985,70.86,110,64.62,17.59
+93,University 93,Maharashtra,Tier 2,Government,Mechanical Engineering,7716,7.65,1324729,96.3,143,48.18,16.76
+94,University 94,Delhi,Tier 1,Government,Computer Science,9333,8.14,1018675,68.28,160,52.22,22.81
+94,University 94,Maharashtra,Tier 2,Private,Electrical Engineering,5650,8.95,1331008,73.55,104,46.31,13.28
+94,University 94,Uttar Pradesh,Tier 3,Private,Mechanical Engineering,7376,7.39,1067524,71.38,36,26.83,15.18
+95,University 95,Maharashtra,Tier 3,Government,Computer Science,6823,8.46,905842,78.02,146,36.48,15.92
+95,University 95,Karnataka,Tier 3,Private,Electrical Engineering,7132,6.9,1551772,72.37,64,63.11,24.31
+95,University 95,Delhi,Tier 1,Government,Mechanical Engineering,9365,6.18,1515468,93.18,196,56.23,20.3
+96,University 96,Uttar Pradesh,Tier 2,Government,Computer Science,9611,7.29,858830,76.76,103,74.02,16.06
+96,University 96,Tamil Nadu,Tier 3,Government,Electrical Engineering,6889,8.34,744865,95.52,29,50.13,12.08
+96,University 96,Maharashtra,Tier 1,Government,Mechanical Engineering,1770,8.53,1410644,96.1,185,69.74,24.87
+97,University 97,Uttar Pradesh,Tier 1,Government,Computer Science,3466,7.57,520972,75.97,120,27.38,18.38
+97,University 97,Maharashtra,Tier 3,Private,Electrical Engineering,6624,6.24,1096948,87.7,165,44.23,11.16
+97,University 97,Maharashtra,Tier 1,Private,Mechanical Engineering,4259,6.79,973218,78.0,191,75.0,16.46
+98,University 98,Tamil Nadu,Tier 2,Government,Computer Science,2141,8.47,476806,80.47,175,45.83,12.14
+98,University 98,Maharashtra,Tier 1,Government,Electrical Engineering,6906,6.09,1651099,75.16,182,40.44,11.08
+98,University 98,Tamil Nadu,Tier 1,Government,Mechanical Engineering,2829,8.96,1689959,74.58,135,54.81,18.4
+99,University 99,Karnataka,Tier 1,Government,Computer Science,7980,6.8,660890,81.28,64,43.05,10.58
+99,University 99,Tamil Nadu,Tier 3,Private,Electrical Engineering,3309,8.65,415598,79.51,189,74.0,11.74
+99,University 99,Uttar Pradesh,Tier 1,Government,Mechanical Engineering,7789,8.11,502747,81.82,48,37.3,24.42
+100,University 100,Karnataka,Tier 1,Government,Computer Science,4807,7.19,1983523,99.2,68,51.94,12.53
+100,University 100,Delhi,Tier 3,Government,Electrical Engineering,1946,7.25,964929,70.37,70,30.63,17.61
+100,University 100,Karnataka,Tier 1,Private,Mechanical Engineering,1138,7.95,768466,66.61,43,79.98,12.26
+101,University 101,Uttar Pradesh,Tier 3,Private,Computer Science,7652,9.48,1143601,84.94,171,57.24,13.02
+101,University 101,Delhi,Tier 1,Government,Electrical Engineering,3660,7.9,1204850,65.29,110,74.57,20.83
+101,University 101,Delhi,Tier 3,Private,Mechanical Engineering,7538,7.92,831972,91.77,39,48.01,10.52
+102,University 102,Maharashtra,Tier 3,Government,Computer Science,5761,9.43,338635,90.18,89,55.32,15.63
+102,University 102,Tamil Nadu,Tier 1,Private,Electrical Engineering,3454,7.35,493226,96.75,198,73.67,16.84
+102,University 102,Karnataka,Tier 3,Government,Mechanical Engineering,7142,8.07,1499151,99.84,91,71.24,16.59
+103,University 103,Maharashtra,Tier 1,Private,Computer Science,8742,9.09,630170,61.23,194,57.6,23.9
+103,University 103,Uttar Pradesh,Tier 2,Government,Electrical Engineering,6845,8.53,942613,81.09,83,37.96,15.38
+103,University 103,Uttar Pradesh,Tier 1,Private,Mechanical Engineering,1695,7.85,618766,99.62,133,60.61,22.43
+104,University 104,Tamil Nadu,Tier 1,Private,Computer Science,1024,8.22,1081198,65.71,155,66.14,19.88
+104,University 104,Maharashtra,Tier 3,Private,Electrical Engineering,4175,7.4,321281,63.11,147,61.24,10.37
+104,University 104,Tamil Nadu,Tier 3,Private,Mechanical Engineering,8938,8.21,1934252,97.91,53,20.37,11.51
+105,University 105,Uttar Pradesh,Tier 1,Government,Computer Science,8913,6.85,1298757,62.01,32,60.01,13.17
+105,University 105,Uttar Pradesh,Tier 3,Government,Electrical Engineering,3951,7.02,1663837,70.65,137,39.29,17.15
+105,University 105,Maharashtra,Tier 1,Government,Mechanical Engineering,6789,9.43,1470834,74.31,76,65.58,12.82
+106,University 106,Uttar Pradesh,Tier 2,Private,Computer Science,6575,7.94,1898099,87.3,33,47.79,13.52
+106,University 106,Delhi,Tier 3,Private,Electrical Engineering,7846,6.42,1536026,91.01,31,49.8,14.26
+106,University 106,Uttar Pradesh,Tier 2,Government,Mechanical Engineering,8016,8.62,1176110,64.11,112,22.81,14.14
+107,University 107,Maharashtra,Tier 3,Private,Computer Science,7056,7.19,380811,89.64,176,75.85,22.4
+107,University 107,Tamil Nadu,Tier 3,Government,Electrical Engineering,6793,7.1,1838659,96.29,70,46.03,23.65
+107,University 107,Karnataka,Tier 3,Government,Mechanical Engineering,9662,7.73,1964986,93.77,157,28.35,13.81
+108,University 108,Tamil Nadu,Tier 1,Government,Computer Science,4607,8.66,682736,87.04,44,37.88,11.58
+108,University 108,Tamil Nadu,Tier 3,Private,Electrical Engineering,2316,6.17,1103940,79.94,122,50.02,16.49
+108,University 108,Uttar Pradesh,Tier 2,Government,Mechanical Engineering,6355,6.01,600486,90.7,160,44.95,20.79
+109,University 109,Maharashtra,Tier 1,Private,Computer Science,4893,9.08,1769539,87.11,192,22.16,15.92
+109,University 109,Karnataka,Tier 2,Government,Electrical Engineering,7469,8.26,778356,87.29,73,31.95,23.35
+109,University 109,Karnataka,Tier 3,Government,Mechanical Engineering,2548,6.2,1090645,91.28,72,36.06,22.53
+110,University 110,Delhi,Tier 1,Private,Computer Science,2815,8.93,1781571,97.95,182,49.57,16.06
+110,University 110,Maharashtra,Tier 2,Private,Electrical Engineering,8703,8.54,1183096,98.54,109,60.65,14.68
+110,University 110,Karnataka,Tier 3,Government,Mechanical Engineering,3745,9.0,987605,60.68,194,68.43,11.8
+111,University 111,Delhi,Tier 1,Government,Computer Science,7198,7.81,1409816,74.87,35,54.09,19.95
+111,University 111,Delhi,Tier 3,Private,Electrical Engineering,5402,6.08,828714,93.19,64,43.88,14.54
+111,University 111,Tamil Nadu,Tier 1,Government,Mechanical Engineering,3204,6.86,1117563,78.94,143,48.43,10.87
+112,University 112,Uttar Pradesh,Tier 1,Government,Computer Science,7683,8.72,1980912,69.02,125,73.76,22.71
+112,University 112,Tamil Nadu,Tier 1,Government,Electrical Engineering,7410,9.44,1212743,96.26,114,60.45,13.9
+112,University 112,Maharashtra,Tier 3,Private,Mechanical Engineering,1215,8.54,1325592,95.61,193,23.73,12.21
+113,University 113,Delhi,Tier 1,Government,Computer Science,3295,6.47,982405,81.19,34,41.26,24.24
+113,University 113,Delhi,Tier 2,Private,Electrical Engineering,3645,8.66,1117865,67.21,22,29.94,16.68
+113,University 113,Karnataka,Tier 1,Government,Mechanical Engineering,9811,8.95,1311439,99.8,69,71.23,13.63
+114,University 114,Maharashtra,Tier 3,Private,Computer Science,3743,8.49,1101881,80.9,95,35.57,16.55
+114,University 114,Tamil Nadu,Tier 3,Government,Electrical Engineering,1619,8.77,1090074,74.2,36,77.61,17.82
+114,University 114,Uttar Pradesh,Tier 2,Government,Mechanical Engineering,9711,6.57,1749991,90.92,113,58.44,20.0
+115,University 115,Tamil Nadu,Tier 2,Private,Computer Science,7236,7.75,1950824,93.42,55,41.42,23.89
+115,University 115,Uttar Pradesh,Tier 3,Government,Electrical Engineering,9148,6.78,1936091,67.12,74,63.73,11.43
+115,University 115,Delhi,Tier 3,Government,Mechanical Engineering,5444,7.68,1694316,60.02,28,29.23,24.85
+116,University 116,Uttar Pradesh,Tier 3,Government,Computer Science,4743,7.79,746790,74.87,167,65.26,23.78
+116,University 116,Maharashtra,Tier 3,Government,Electrical Engineering,4929,7.25,1394316,70.04,110,44.94,22.71
+116,University 116,Maharashtra,Tier 2,Private,Mechanical Engineering,4699,6.1,942762,90.07,152,22.16,12.63
+117,University 117,Uttar Pradesh,Tier 1,Government,Computer Science,3780,7.51,689770,82.53,168,51.0,21.38
+117,University 117,Tamil Nadu,Tier 1,Private,Electrical Engineering,8470,9.16,928889,95.7,168,65.79,22.35
+117,University 117,Karnataka,Tier 3,Private,Mechanical Engineering,4180,8.07,732680,71.83,131,71.3,13.11
+118,University 118,Maharashtra,Tier 3,Private,Computer Science,1270,9.08,478048,76.38,43,69.6,10.71
+118,University 118,Karnataka,Tier 2,Government,Electrical Engineering,4607,7.23,647139,66.06,196,52.35,14.24
+118,University 118,Delhi,Tier 1,Government,Mechanical Engineering,9445,7.91,1517192,60.0,73,41.73,20.85
+119,University 119,Delhi,Tier 1,Private,Computer Science,6634,9.09,914741,89.17,95,33.46,19.95
+119,University 119,Maharashtra,Tier 1,Government,Electrical Engineering,2849,7.06,728733,92.72,131,69.01,12.72
+119,University 119,Tamil Nadu,Tier 3,Private,Mechanical Engineering,4811,9.45,1768919,90.5,73,55.44,19.92
+120,University 120,Tamil Nadu,Tier 3,Government,Computer Science,4273,6.07,1838814,80.7,158,57.71,17.23
+120,University 120,Maharashtra,Tier 3,Government,Electrical Engineering,6754,8.66,1084192,88.34,70,42.16,23.99
+120,University 120,Uttar Pradesh,Tier 3,Private,Mechanical Engineering,2914,8.81,1414518,65.01,145,40.68,10.46
+121,University 121,Maharashtra,Tier 1,Government,Computer Science,6260,6.75,760115,99.14,22,27.13,21.47
+121,University 121,Delhi,Tier 3,Private,Electrical Engineering,5160,7.09,637369,66.52,51,43.23,23.6
+121,University 121,Maharashtra,Tier 3,Government,Mechanical Engineering,2907,6.44,1090605,88.15,33,70.6,11.46
+122,University 122,Tamil Nadu,Tier 1,Government,Computer Science,5997,7.91,1323920,81.63,46,48.94,11.78
+122,University 122,Tamil Nadu,Tier 3,Private,Electrical Engineering,4663,6.46,563625,92.35,114,38.59,14.35
+122,University 122,Tamil Nadu,Tier 1,Government,Mechanical Engineering,4277,8.19,705105,93.31,102,57.68,13.71
+123,University 123,Karnataka,Tier 1,Government,Computer Science,6131,7.01,884010,67.66,159,57.28,15.01
+123,University 123,Maharashtra,Tier 2,Government,Electrical Engineering,7261,6.86,1957888,71.43,131,40.01,20.16
+123,University 123,Tamil Nadu,Tier 2,Private,Mechanical Engineering,3606,7.34,797952,85.67,154,57.94,12.98
+124,University 124,Tamil Nadu,Tier 2,Government,Computer Science,5855,9.47,551671,71.05,124,78.82,11.01
+124,University 124,Delhi,Tier 2,Government,Electrical Engineering,1517,7.92,1505565,82.22,101,62.27,16.34
+124,University 124,Tamil Nadu,Tier 1,Private,Mechanical Engineering,8162,8.12,1109057,79.32,21,37.25,19.85
+125,University 125,Uttar Pradesh,Tier 3,Government,Computer Science,2518,9.33,1154568,63.68,127,47.48,11.38
+125,University 125,Uttar Pradesh,Tier 2,Government,Electrical Engineering,3849,8.46,1214565,70.04,29,47.04,20.08
+125,University 125,Maharashtra,Tier 3,Private,Mechanical Engineering,6178,8.09,1901948,66.96,102,26.35,12.32
+126,University 126,Tamil Nadu,Tier 2,Government,Computer Science,9751,6.02,1710295,83.5,117,42.41,10.76
+126,University 126,Maharashtra,Tier 1,Government,Electrical Engineering,1816,7.9,1152050,98.3,183,63.54,19.26
+126,University 126,Maharashtra,Tier 2,Private,Mechanical Engineering,2818,7.52,1761666,95.6,104,74.87,16.51
+127,University 127,Karnataka,Tier 1,Government,Computer Science,9264,7.53,1023858,83.58,36,52.81,20.06
+127,University 127,Uttar Pradesh,Tier 1,Private,Electrical Engineering,9560,8.86,1218638,89.55,66,21.77,15.34
+127,University 127,Delhi,Tier 3,Private,Mechanical Engineering,5897,6.22,1638306,68.61,180,60.37,11.22
+128,University 128,Uttar Pradesh,Tier 2,Private,Computer Science,5370,7.73,736542,81.77,193,43.85,17.7
+128,University 128,Tamil Nadu,Tier 2,Private,Electrical Engineering,1690,8.7,1371824,96.83,153,67.98,15.0
+128,University 128,Karnataka,Tier 1,Private,Mechanical Engineering,5744,6.12,1433754,78.17,77,34.9,20.58
+129,University 129,Uttar Pradesh,Tier 2,Private,Computer Science,6738,9.28,478267,76.78,82,37.54,16.66
+129,University 129,Maharashtra,Tier 1,Private,Electrical Engineering,9326,6.2,1902357,61.13,148,65.87,16.15
+129,University 129,Uttar Pradesh,Tier 1,Government,Mechanical Engineering,2637,6.56,1615823,80.66,111,59.85,23.23
+130,University 130,Delhi,Tier 3,Private,Computer Science,1802,8.82,952416,72.39,46,50.9,18.03
+130,University 130,Delhi,Tier 1,Government,Electrical Engineering,4927,8.76,1067286,68.64,74,77.17,14.9
+130,University 130,Uttar Pradesh,Tier 1,Private,Mechanical Engineering,3854,6.81,1371984,64.1,156,24.66,22.43
+131,University 131,Maharashtra,Tier 2,Government,Computer Science,1086,8.93,1871286,78.47,177,46.35,19.16
+131,University 131,Delhi,Tier 3,Government,Electrical Engineering,3700,8.53,463187,69.18,170,45.78,21.11
+131,University 131,Delhi,Tier 2,Government,Mechanical Engineering,9837,8.76,1287797,81.65,177,21.15,12.49
+132,University 132,Uttar Pradesh,Tier 3,Private,Computer Science,5729,7.24,1867739,83.29,181,51.15,19.12
+132,University 132,Tamil Nadu,Tier 2,Government,Electrical Engineering,4453,9.36,684583,99.45,156,44.95,16.43
+132,University 132,Tamil Nadu,Tier 3,Private,Mechanical Engineering,7318,8.64,531324,80.0,160,72.23,19.47
+133,University 133,Delhi,Tier 1,Government,Computer Science,5927,9.27,861446,65.71,45,50.74,11.71
+133,University 133,Uttar Pradesh,Tier 1,Government,Electrical Engineering,6126,8.71,1460294,76.77,81,67.57,11.04
+133,University 133,Delhi,Tier 3,Government,Mechanical Engineering,4700,6.78,1527545,70.13,44,63.88,20.46
+134,University 134,Maharashtra,Tier 1,Government,Computer Science,7773,8.77,825005,80.42,166,71.3,23.24
+134,University 134,Tamil Nadu,Tier 3,Government,Electrical Engineering,5637,8.27,1896049,96.07,67,32.48,10.63
+134,University 134,Karnataka,Tier 3,Government,Mechanical Engineering,6991,9.39,980667,81.82,68,24.45,15.63
+135,University 135,Delhi,Tier 2,Government,Computer Science,1531,9.49,1833673,72.85,102,24.2,20.94
+135,University 135,Tamil Nadu,Tier 3,Private,Electrical Engineering,6626,7.29,1741246,88.35,110,42.75,22.47
+135,University 135,Maharashtra,Tier 1,Private,Mechanical Engineering,1670,8.82,1797404,64.15,67,23.99,21.5
+136,University 136,Uttar Pradesh,Tier 2,Government,Computer Science,4439,8.63,1449734,87.1,118,60.27,19.31
+136,University 136,Delhi,Tier 3,Government,Electrical Engineering,4163,6.68,1471675,75.63,164,35.49,19.08
+136,University 136,Delhi,Tier 2,Private,Mechanical Engineering,1489,8.03,588213,90.33,95,48.44,20.75
+137,University 137,Tamil Nadu,Tier 1,Private,Computer Science,8404,6.75,498237,94.75,157,50.42,12.82
+137,University 137,Maharashtra,Tier 2,Private,Electrical Engineering,7539,7.55,698102,86.38,132,36.32,20.39
+137,University 137,Tamil Nadu,Tier 2,Government,Mechanical Engineering,7204,7.14,1305535,67.64,141,36.71,19.82
+138,University 138,Uttar Pradesh,Tier 3,Government,Computer Science,2230,8.72,768758,99.33,103,66.42,21.22
+138,University 138,Maharashtra,Tier 1,Government,Electrical Engineering,7718,6.92,1167196,95.17,182,69.46,19.45
+138,University 138,Uttar Pradesh,Tier 2,Government,Mechanical Engineering,3103,6.7,475607,73.01,176,46.19,20.0
+139,University 139,Uttar Pradesh,Tier 2,Private,Computer Science,3378,8.84,1566556,62.69,195,69.6,23.55
+139,University 139,Delhi,Tier 3,Government,Electrical Engineering,7623,8.36,1792418,99.91,182,54.27,14.56
+139,University 139,Delhi,Tier 1,Government,Mechanical Engineering,3964,8.74,1428394,60.55,67,38.73,10.24
+140,University 140,Uttar Pradesh,Tier 1,Private,Computer Science,7047,6.46,1956042,60.21,22,57.48,22.97
+140,University 140,Uttar Pradesh,Tier 3,Government,Electrical Engineering,1067,9.47,1942878,89.32,93,28.31,18.68
+140,University 140,Tamil Nadu,Tier 3,Private,Mechanical Engineering,1650,9.25,765590,84.74,78,48.16,16.65
+141,University 141,Uttar Pradesh,Tier 2,Government,Computer Science,3217,8.5,1952632,80.16,51,47.29,20.12
+141,University 141,Uttar Pradesh,Tier 3,Government,Electrical Engineering,4716,6.19,1218074,87.89,169,29.37,19.54
+141,University 141,Karnataka,Tier 1,Government,Mechanical Engineering,1615,8.47,703157,83.19,112,76.92,10.91
+142,University 142,Uttar Pradesh,Tier 1,Government,Computer Science,8226,8.45,1435371,78.19,39,77.66,18.04
+142,University 142,Uttar Pradesh,Tier 2,Government,Electrical Engineering,4020,8.05,1570704,71.08,55,24.71,21.11
+142,University 142,Karnataka,Tier 3,Private,Mechanical Engineering,8175,6.23,1699769,63.38,147,56.98,13.69
+143,University 143,Tamil Nadu,Tier 3,Private,Computer Science,8212,9.42,1795991,67.87,107,73.07,11.88
+143,University 143,Tamil Nadu,Tier 1,Private,Electrical Engineering,1464,8.18,1322582,84.76,114,66.55,11.92
+143,University 143,Karnataka,Tier 3,Government,Mechanical Engineering,6750,7.39,1860336,94.1,113,38.36,18.28
+144,University 144,Uttar Pradesh,Tier 2,Government,Computer Science,3411,6.59,1767130,78.76,121,76.54,11.12
+144,University 144,Delhi,Tier 3,Government,Electrical Engineering,9775,7.54,506903,66.22,158,39.58,14.49
+144,University 144,Karnataka,Tier 2,Government,Mechanical Engineering,8587,8.36,578495,99.01,45,68.54,12.2
+145,University 145,Uttar Pradesh,Tier 3,Government,Computer Science,3011,8.16,1241245,65.49,29,50.33,12.16
+145,University 145,Tamil Nadu,Tier 2,Government,Electrical Engineering,4216,7.55,1793726,72.26,76,62.91,14.23
+145,University 145,Uttar Pradesh,Tier 1,Private,Mechanical Engineering,6208,8.01,1245522,99.67,164,71.73,14.71
+146,University 146,Delhi,Tier 1,Private,Computer Science,3440,9.29,1151161,67.81,101,48.25,19.84
+146,University 146,Karnataka,Tier 2,Government,Electrical Engineering,7587,7.26,585713,64.93,58,47.24,21.44
+146,University 146,Delhi,Tier 1,Government,Mechanical Engineering,3032,6.61,1779634,89.45,109,72.18,16.04
+147,University 147,Karnataka,Tier 3,Private,Computer Science,2695,6.98,1613982,82.84,72,36.72,13.28
+147,University 147,Delhi,Tier 2,Private,Electrical Engineering,1719,7.0,1871836,83.06,91,42.27,21.78
+147,University 147,Tamil Nadu,Tier 2,Government,Mechanical Engineering,1698,7.18,1993470,82.93,88,30.51,20.09
+148,University 148,Maharashtra,Tier 3,Private,Computer Science,5820,9.06,975302,83.56,151,20.04,23.06
+148,University 148,Uttar Pradesh,Tier 1,Private,Electrical Engineering,3547,8.63,1129365,70.61,148,41.07,11.41
+148,University 148,Uttar Pradesh,Tier 2,Government,Mechanical Engineering,5204,9.31,636199,68.3,130,74.51,17.02
+149,University 149,Maharashtra,Tier 1,Government,Computer Science,4343,8.15,1031893,77.2,164,62.24,24.03
+149,University 149,Uttar Pradesh,Tier 1,Private,Electrical Engineering,2117,7.66,657546,61.22,168,22.73,19.7
+149,University 149,Tamil Nadu,Tier 3,Government,Mechanical Engineering,3761,8.71,1820180,62.01,199,36.71,22.79
+150,University 150,Maharashtra,Tier 2,Government,Computer Science,4072,8.79,1657642,77.96,28,40.16,16.99
+150,University 150,Delhi,Tier 2,Government,Electrical Engineering,6048,6.66,318074,66.94,84,56.65,13.0
+150,University 150,Tamil Nadu,Tier 3,Government,Mechanical Engineering,8850,8.28,1726912,69.48,104,70.1,23.91
+151,University 151,Uttar Pradesh,Tier 2,Government,Computer Science,9684,8.89,1681173,63.5,196,34.07,15.18
+151,University 151,Maharashtra,Tier 1,Government,Electrical Engineering,2874,8.23,834522,84.46,166,31.54,14.43
+151,University 151,Delhi,Tier 3,Private,Mechanical Engineering,7320,6.99,526572,60.41,51,52.58,15.2
+152,University 152,Karnataka,Tier 2,Government,Computer Science,6305,6.97,1010381,63.16,47,35.66,15.15
+152,University 152,Maharashtra,Tier 3,Private,Electrical Engineering,5567,7.3,1368965,62.47,156,34.4,20.65
+152,University 152,Delhi,Tier 1,Government,Mechanical Engineering,6698,6.86,1404381,62.4,92,65.07,21.31
+153,University 153,Uttar Pradesh,Tier 3,Government,Computer Science,5247,8.86,1211289,97.66,132,20.41,13.19
+153,University 153,Delhi,Tier 2,Government,Electrical Engineering,7305,9.0,1688977,95.82,151,38.83,20.37
+153,University 153,Maharashtra,Tier 2,Government,Mechanical Engineering,5765,9.29,1508468,77.2,196,69.35,12.6
+154,University 154,Delhi,Tier 1,Private,Computer Science,3341,8.39,1127385,72.0,199,64.03,19.48
+154,University 154,Maharashtra,Tier 2,Government,Electrical Engineering,3672,6.16,880971,89.32,110,75.89,22.31
+154,University 154,Tamil Nadu,Tier 2,Private,Mechanical Engineering,5440,9.3,1221287,93.06,80,66.8,11.48
+155,University 155,Delhi,Tier 3,Government,Computer Science,5538,9.43,1762108,69.05,78,55.69,21.08
+155,University 155,Karnataka,Tier 3,Private,Electrical Engineering,6898,7.86,1320747,94.92,142,64.89,18.42
+155,University 155,Delhi,Tier 2,Private,Mechanical Engineering,4961,8.78,472646,98.79,181,23.02,10.79
+156,University 156,Karnataka,Tier 1,Government,Computer Science,9469,6.79,1162318,82.98,189,69.41,22.31
+156,University 156,Tamil Nadu,Tier 1,Private,Electrical Engineering,7845,8.82,534000,82.29,160,25.08,17.0
+156,University 156,Delhi,Tier 2,Government,Mechanical Engineering,7509,6.64,1589660,83.06,46,66.89,14.14
+157,University 157,Tamil Nadu,Tier 2,Government,Computer Science,8984,7.47,813953,61.31,24,38.71,13.75
+157,University 157,Tamil Nadu,Tier 2,Private,Electrical Engineering,7928,9.25,883117,62.74,147,34.35,17.68
+157,University 157,Tamil Nadu,Tier 3,Private,Mechanical Engineering,8504,8.27,449395,82.03,179,76.41,10.7
+158,University 158,Delhi,Tier 1,Government,Computer Science,2073,6.37,422019,76.53,77,52.27,14.17
+158,University 158,Karnataka,Tier 3,Private,Electrical Engineering,5827,9.18,444771,76.77,47,51.1,20.65
+158,University 158,Tamil Nadu,Tier 2,Private,Mechanical Engineering,5887,9.39,883838,98.32,64,70.19,10.75
+159,University 159,Karnataka,Tier 3,Government,Computer Science,2001,7.11,536495,76.13,165,22.58,21.71
+159,University 159,Karnataka,Tier 2,Government,Electrical Engineering,8549,6.51,1359165,81.61,141,34.23,11.61
+159,University 159,Delhi,Tier 3,Private,Mechanical Engineering,9479,7.52,874887,81.9,25,39.51,10.59
+160,University 160,Tamil Nadu,Tier 2,Government,Computer Science,5906,9.42,845726,75.81,60,32.65,22.86
+160,University 160,Tamil Nadu,Tier 2,Government,Electrical Engineering,5051,7.34,1171158,70.64,22,79.86,12.87
+160,University 160,Maharashtra,Tier 2,Government,Mechanical Engineering,2814,6.23,385166,76.79,135,52.79,16.26
+161,University 161,Karnataka,Tier 2,Government,Computer Science,8415,7.46,1743401,95.92,77,40.43,22.07
+161,University 161,Maharashtra,Tier 2,Government,Electrical Engineering,9307,7.17,932585,69.35,30,69.81,24.22
+161,University 161,Maharashtra,Tier 2,Private,Mechanical Engineering,7401,9.24,1132297,97.08,94,45.2,10.15
+162,University 162,Tamil Nadu,Tier 1,Government,Computer Science,2881,9.31,1869720,91.49,194,34.87,20.47
+162,University 162,Karnataka,Tier 1,Private,Electrical Engineering,6877,7.9,1746714,81.41,98,36.29,23.56
+162,University 162,Karnataka,Tier 1,Private,Mechanical Engineering,1016,6.78,1037744,69.04,27,75.82,11.43
+163,University 163,Karnataka,Tier 2,Government,Computer Science,7543,7.16,1153062,62.05,143,65.55,20.91
+163,University 163,Karnataka,Tier 3,Private,Electrical Engineering,6555,6.56,1238601,68.34,184,65.61,12.31
+163,University 163,Karnataka,Tier 1,Private,Mechanical Engineering,5926,7.26,1384309,65.02,165,23.4,10.52
+164,University 164,Delhi,Tier 3,Government,Computer Science,2909,6.91,1777141,73.49,130,37.84,13.45
+164,University 164,Tamil Nadu,Tier 2,Private,Electrical Engineering,7382,8.77,1333224,81.82,69,43.82,12.34
+164,University 164,Tamil Nadu,Tier 1,Private,Mechanical Engineering,2859,6.95,1051393,61.2,156,29.37,24.83
+165,University 165,Tamil Nadu,Tier 2,Private,Computer Science,6308,8.23,1636926,78.71,85,46.06,16.7
+165,University 165,Uttar Pradesh,Tier 1,Private,Electrical Engineering,1143,8.26,707974,97.38,126,36.74,11.94
+165,University 165,Delhi,Tier 3,Private,Mechanical Engineering,9497,6.89,1360560,95.6,111,31.7,19.78
+166,University 166,Delhi,Tier 2,Government,Computer Science,6505,8.11,1603659,62.44,59,25.6,24.46
+166,University 166,Tamil Nadu,Tier 3,Private,Electrical Engineering,3842,8.08,827297,90.63,149,54.52,16.44
+166,University 166,Karnataka,Tier 1,Private,Mechanical Engineering,5873,8.42,682688,85.01,124,59.13,13.77
+167,University 167,Delhi,Tier 2,Government,Computer Science,5563,8.45,985338,89.37,181,31.01,18.91
+167,University 167,Karnataka,Tier 1,Private,Electrical Engineering,2881,6.05,539455,92.27,195,21.67,19.47
+167,University 167,Maharashtra,Tier 3,Private,Mechanical Engineering,2409,8.32,831740,92.24,120,54.61,18.46
+168,University 168,Delhi,Tier 2,Private,Computer Science,8825,6.45,1484895,94.52,169,28.6,20.72
+168,University 168,Karnataka,Tier 2,Private,Electrical Engineering,5535,8.77,693120,93.5,167,76.76,14.44
+168,University 168,Delhi,Tier 3,Private,Mechanical Engineering,6060,8.32,1731282,83.74,159,39.41,19.98
+169,University 169,Delhi,Tier 3,Private,Computer Science,6919,8.85,1247509,96.74,117,39.1,23.41
+169,University 169,Tamil Nadu,Tier 2,Government,Electrical Engineering,1864,6.05,947952,82.17,129,20.77,18.1
+169,University 169,Delhi,Tier 3,Private,Mechanical Engineering,1325,8.84,1389118,75.2,192,79.33,13.39
+170,University 170,Maharashtra,Tier 3,Private,Computer Science,8754,8.9,1295893,77.76,176,25.26,10.99
+170,University 170,Karnataka,Tier 2,Government,Electrical Engineering,3240,7.12,1962388,72.23,100,49.34,22.89
+170,University 170,Delhi,Tier 3,Government,Mechanical Engineering,6594,6.42,1920179,88.02,92,68.25,16.39
+171,University 171,Tamil Nadu,Tier 2,Government,Computer Science,7828,8.73,1854316,61.03,105,38.45,17.38
+171,University 171,Delhi,Tier 2,Government,Electrical Engineering,5039,6.44,733961,80.94,134,48.71,18.78
+171,University 171,Karnataka,Tier 1,Private,Mechanical Engineering,5306,8.91,1912210,83.42,30,58.27,22.3
+172,University 172,Uttar Pradesh,Tier 3,Government,Computer Science,3949,6.88,960197,86.12,84,78.62,18.17
+172,University 172,Karnataka,Tier 2,Government,Electrical Engineering,1375,6.26,388422,78.65,172,62.03,21.56
+172,University 172,Karnataka,Tier 3,Government,Mechanical Engineering,2652,7.85,1775159,96.96,32,65.99,20.53
+173,University 173,Maharashtra,Tier 2,Private,Computer Science,6599,8.65,652621,72.29,111,76.08,13.76
+173,University 173,Uttar Pradesh,Tier 3,Government,Electrical Engineering,9504,7.32,407573,78.67,116,50.36,12.43
+173,University 173,Karnataka,Tier 1,Government,Mechanical Engineering,2773,7.24,1646652,94.91,129,73.0,16.22
+174,University 174,Uttar Pradesh,Tier 3,Government,Computer Science,7719,7.6,1610015,92.55,26,58.93,24.32
+174,University 174,Maharashtra,Tier 2,Private,Electrical Engineering,2464,8.11,1131868,64.45,71,37.84,12.44
+174,University 174,Karnataka,Tier 2,Private,Mechanical Engineering,1643,6.73,612579,82.09,197,72.31,18.65
+175,University 175,Delhi,Tier 3,Private,Computer Science,9947,6.28,1604397,65.93,175,37.78,12.15
+175,University 175,Tamil Nadu,Tier 3,Government,Electrical Engineering,5516,6.28,795919,72.76,195,55.2,22.43
+175,University 175,Tamil Nadu,Tier 2,Private,Mechanical Engineering,7411,8.9,1444337,72.28,20,39.39,24.82
+176,University 176,Uttar Pradesh,Tier 1,Private,Computer Science,5677,8.11,941621,78.78,165,54.84,24.04
+176,University 176,Maharashtra,Tier 2,Government,Electrical Engineering,7089,8.83,1749589,84.72,186,78.95,11.29
+176,University 176,Delhi,Tier 1,Government,Mechanical Engineering,2725,7.23,411361,85.76,136,26.99,11.91
+177,University 177,Tamil Nadu,Tier 2,Private,Computer Science,1421,6.76,1135488,93.41,114,69.23,22.4
+177,University 177,Uttar Pradesh,Tier 1,Private,Electrical Engineering,7748,6.24,1368203,97.42,189,67.06,18.98
+177,University 177,Tamil Nadu,Tier 3,Private,Mechanical Engineering,6798,8.12,1471675,60.57,196,54.3,12.77
+178,University 178,Delhi,Tier 3,Government,Computer Science,6673,6.99,1687962,69.07,58,42.43,19.38
+178,University 178,Tamil Nadu,Tier 3,Government,Electrical Engineering,3395,6.85,1815554,62.05,130,71.29,24.29
+178,University 178,Tamil Nadu,Tier 3,Private,Mechanical Engineering,9531,7.66,342674,62.48,64,53.2,17.81
+179,University 179,Tamil Nadu,Tier 1,Private,Computer Science,7477,9.36,1824728,96.7,90,22.64,12.78
+179,University 179,Maharashtra,Tier 1,Private,Electrical Engineering,3313,9.31,1882701,78.17,132,24.63,12.55
+179,University 179,Maharashtra,Tier 2,Private,Mechanical Engineering,4917,6.86,1285976,62.36,153,61.06,24.23
+180,University 180,Uttar Pradesh,Tier 2,Government,Computer Science,2819,6.27,1507739,66.79,111,58.51,16.16
+180,University 180,Maharashtra,Tier 1,Private,Electrical Engineering,1813,9.46,1062178,98.71,25,63.72,14.73
+180,University 180,Delhi,Tier 1,Government,Mechanical Engineering,2141,8.16,1433393,87.1,64,48.51,23.84
+181,University 181,Delhi,Tier 2,Government,Computer Science,2784,8.27,321650,99.7,72,61.24,24.42
+181,University 181,Delhi,Tier 1,Government,Electrical Engineering,5658,8.59,1278582,60.67,38,40.05,20.96
+181,University 181,Karnataka,Tier 3,Government,Mechanical Engineering,3962,7.83,738963,94.66,196,77.43,23.35
+182,University 182,Tamil Nadu,Tier 2,Government,Computer Science,2366,7.99,708213,65.41,182,43.76,12.0
+182,University 182,Karnataka,Tier 3,Government,Electrical Engineering,3261,9.08,1604295,65.1,84,41.26,14.54
+182,University 182,Tamil Nadu,Tier 3,Government,Mechanical Engineering,2375,7.25,431562,73.99,168,48.3,18.3
+183,University 183,Delhi,Tier 2,Private,Computer Science,5530,7.24,1788303,82.56,153,39.83,21.17
+183,University 183,Maharashtra,Tier 3,Government,Electrical Engineering,8257,7.8,873228,79.53,106,39.04,23.68
+183,University 183,Karnataka,Tier 1,Private,Mechanical Engineering,8080,6.64,1147929,60.26,153,74.48,13.64
+184,University 184,Delhi,Tier 3,Private,Computer Science,3881,9.3,698838,82.95,171,21.86,20.72
+184,University 184,Karnataka,Tier 1,Private,Electrical Engineering,2058,9.14,322499,71.02,196,71.7,18.66
+184,University 184,Maharashtra,Tier 2,Government,Mechanical Engineering,5818,8.14,1749141,96.52,148,39.65,12.47
+185,University 185,Karnataka,Tier 3,Private,Computer Science,9536,7.94,733797,83.59,89,56.93,11.22
+185,University 185,Uttar Pradesh,Tier 2,Private,Electrical Engineering,7899,8.03,402780,92.47,34,43.25,22.95
+185,University 185,Delhi,Tier 1,Private,Mechanical Engineering,1271,7.16,1485656,95.45,24,53.88,19.95
+186,University 186,Uttar Pradesh,Tier 1,Government,Computer Science,7915,9.49,1982620,71.49,27,58.31,14.8
+186,University 186,Maharashtra,Tier 2,Government,Electrical Engineering,6730,9.16,1175817,94.36,139,44.98,15.35
+186,University 186,Karnataka,Tier 1,Private,Mechanical Engineering,1198,7.09,463639,97.27,122,78.59,19.68
+187,University 187,Delhi,Tier 2,Private,Computer Science,1178,9.1,317118,87.67,197,39.71,10.82
+187,University 187,Delhi,Tier 2,Government,Electrical Engineering,4084,7.5,1087163,68.27,89,42.02,12.21
+187,University 187,Tamil Nadu,Tier 2,Private,Mechanical Engineering,9516,6.81,523034,60.27,145,31.92,21.75
+188,University 188,Maharashtra,Tier 3,Government,Computer Science,2515,9.14,707821,67.31,121,58.49,10.38
+188,University 188,Maharashtra,Tier 1,Private,Electrical Engineering,9302,6.94,1927826,69.94,99,68.53,23.13
+188,University 188,Delhi,Tier 1,Government,Mechanical Engineering,7691,6.51,1938295,63.9,153,60.95,14.97
+189,University 189,Maharashtra,Tier 2,Private,Computer Science,8037,7.09,943970,67.09,97,46.72,11.26
+189,University 189,Tamil Nadu,Tier 3,Private,Electrical Engineering,4183,7.1,763930,92.13,128,62.3,21.13
+189,University 189,Karnataka,Tier 3,Government,Mechanical Engineering,4829,7.08,1608166,88.7,191,31.67,22.31
+190,University 190,Uttar Pradesh,Tier 1,Government,Computer Science,9881,7.41,1121412,80.44,146,48.63,21.9
+190,University 190,Tamil Nadu,Tier 3,Private,Electrical Engineering,9802,8.94,791966,88.23,80,41.78,23.19
+190,University 190,Karnataka,Tier 3,Private,Mechanical Engineering,5813,7.14,794670,98.46,34,71.75,13.5
+191,University 191,Tamil Nadu,Tier 2,Government,Computer Science,6068,7.04,792503,99.1,179,79.73,23.67
+191,University 191,Delhi,Tier 1,Private,Electrical Engineering,5174,7.25,1767256,66.86,101,46.44,23.2
+191,University 191,Delhi,Tier 1,Private,Mechanical Engineering,3061,9.44,1903969,62.93,108,55.72,16.23
+192,University 192,Delhi,Tier 1,Government,Computer Science,2045,6.68,1223953,85.95,132,28.24,14.15
+192,University 192,Uttar Pradesh,Tier 1,Government,Electrical Engineering,2505,8.61,507440,99.83,88,35.58,10.02
+192,University 192,Tamil Nadu,Tier 1,Government,Mechanical Engineering,7852,9.02,1275112,82.15,105,70.63,21.13
+193,University 193,Delhi,Tier 2,Government,Computer Science,3925,9.07,851238,97.15,116,62.33,14.62
+193,University 193,Delhi,Tier 2,Government,Electrical Engineering,2706,8.6,572544,88.75,124,64.96,23.77
+193,University 193,Uttar Pradesh,Tier 3,Private,Mechanical Engineering,5567,6.14,1199084,63.25,132,46.65,20.13
+194,University 194,Uttar Pradesh,Tier 1,Government,Computer Science,7801,9.03,923090,61.27,117,47.64,24.83
+194,University 194,Uttar Pradesh,Tier 2,Government,Electrical Engineering,5565,8.74,1468451,99.69,71,71.78,14.01
+194,University 194,Uttar Pradesh,Tier 2,Government,Mechanical Engineering,6882,7.14,1929618,64.88,147,74.25,11.03
+195,University 195,Maharashtra,Tier 2,Government,Computer Science,4440,6.82,1655182,67.4,82,23.69,13.36
+195,University 195,Delhi,Tier 2,Government,Electrical Engineering,3173,7.73,634248,81.48,50,40.36,20.63
+195,University 195,Uttar Pradesh,Tier 1,Private,Mechanical Engineering,5493,8.36,628910,91.33,41,63.08,14.25
+196,University 196,Maharashtra,Tier 2,Government,Computer Science,2916,6.15,1994548,81.79,184,30.31,17.15
+196,University 196,Delhi,Tier 1,Private,Electrical Engineering,9683,7.54,494215,68.49,84,70.19,17.54
+196,University 196,Maharashtra,Tier 1,Government,Mechanical Engineering,1534,9.43,319782,80.15,181,42.62,15.9
+197,University 197,Tamil Nadu,Tier 2,Private,Computer Science,9316,7.57,1293931,91.86,51,44.67,19.95
+197,University 197,Delhi,Tier 2,Private,Electrical Engineering,9081,6.77,1419510,98.03,154,35.66,24.54
+197,University 197,Maharashtra,Tier 3,Private,Mechanical Engineering,9758,7.37,410776,88.24,149,65.81,11.63
+198,University 198,Delhi,Tier 2,Government,Computer Science,3460,6.51,625800,81.24,90,73.25,19.38
+198,University 198,Uttar Pradesh,Tier 3,Government,Electrical Engineering,1616,7.17,1273069,86.86,25,41.36,12.23
+198,University 198,Uttar Pradesh,Tier 2,Private,Mechanical Engineering,7269,6.85,1228864,67.87,189,53.86,23.99
+199,University 199,Maharashtra,Tier 3,Private,Computer Science,1666,8.49,1540895,78.76,149,42.69,17.76
+199,University 199,Delhi,Tier 3,Government,Electrical Engineering,8382,7.44,348639,87.6,93,63.52,15.41
+199,University 199,Delhi,Tier 2,Government,Mechanical Engineering,1343,6.52,839767,81.76,76,20.36,17.26
+200,University 200,Maharashtra,Tier 1,Government,Computer Science,5212,8.0,391229,68.23,104,52.8,23.27
+200,University 200,Uttar Pradesh,Tier 1,Government,Electrical Engineering,3321,8.55,1131187,96.66,101,32.08,23.35
+200,University 200,Delhi,Tier 3,Private,Mechanical Engineering,8505,7.76,815447,83.9,126,23.27,14.71
+201,University 201,Tamil Nadu,Tier 3,Private,Computer Science,1996,9.05,1138489,96.77,173,40.53,24.42
+201,University 201,Uttar Pradesh,Tier 1,Government,Electrical Engineering,1786,7.99,1134123,92.47,82,63.51,21.94
+201,University 201,Uttar Pradesh,Tier 3,Private,Mechanical Engineering,6427,8.77,1630805,84.93,65,52.68,10.62
+202,University 202,Maharashtra,Tier 1,Government,Computer Science,8433,6.22,1414255,78.01,176,47.85,19.29
+202,University 202,Karnataka,Tier 3,Government,Electrical Engineering,3713,6.71,1650816,89.94,64,42.83,11.59
+202,University 202,Karnataka,Tier 1,Private,Mechanical Engineering,3506,8.15,311549,71.99,63,52.14,19.27
+203,University 203,Uttar Pradesh,Tier 2,Government,Computer Science,8067,7.5,605063,61.57,106,34.54,19.95
+203,University 203,Karnataka,Tier 2,Private,Electrical Engineering,2299,8.55,960354,79.69,59,66.18,24.63
+203,University 203,Tamil Nadu,Tier 2,Private,Mechanical Engineering,2532,7.8,1088428,95.9,41,26.49,22.63
+204,University 204,Delhi,Tier 3,Private,Computer Science,6190,7.94,989925,68.28,72,25.29,21.65
+204,University 204,Tamil Nadu,Tier 1,Government,Electrical Engineering,1142,7.51,822820,88.26,56,27.15,12.11
+204,University 204,Maharashtra,Tier 2,Government,Mechanical Engineering,2172,8.93,1303941,94.32,144,46.12,24.3
+205,University 205,Uttar Pradesh,Tier 2,Private,Computer Science,4309,7.86,1813993,89.04,164,67.51,22.17
+205,University 205,Maharashtra,Tier 3,Private,Electrical Engineering,6204,8.16,696419,83.31,38,75.36,21.43
+205,University 205,Uttar Pradesh,Tier 2,Private,Mechanical Engineering,5732,8.33,1728926,60.99,159,49.39,17.93
+206,University 206,Tamil Nadu,Tier 1,Private,Computer Science,2545,8.85,964687,67.43,125,46.17,19.87
+206,University 206,Uttar Pradesh,Tier 1,Private,Electrical Engineering,4732,6.48,1947069,97.31,106,50.14,14.92
+206,University 206,Delhi,Tier 2,Private,Mechanical Engineering,6961,9.22,1520985,61.99,70,64.44,17.28
+207,University 207,Uttar Pradesh,Tier 1,Private,Computer Science,1069,8.15,1509725,78.3,52,45.75,11.12
+207,University 207,Maharashtra,Tier 2,Government,Electrical Engineering,6705,7.77,1126547,75.12,45,47.98,21.88
+207,University 207,Maharashtra,Tier 2,Government,Mechanical Engineering,6918,6.16,1345716,70.04,194,45.3,10.6
+208,University 208,Tamil Nadu,Tier 3,Private,Computer Science,8164,8.0,1998413,74.01,91,26.4,15.5
+208,University 208,Uttar Pradesh,Tier 3,Private,Electrical Engineering,9368,9.38,1794201,82.59,180,56.05,20.51
+208,University 208,Karnataka,Tier 2,Government,Mechanical Engineering,7353,7.59,659698,68.06,73,30.19,11.43
+209,University 209,Uttar Pradesh,Tier 1,Government,Computer Science,2927,6.6,349156,66.58,32,39.04,13.3
+209,University 209,Tamil Nadu,Tier 2,Private,Electrical Engineering,4326,6.35,1464395,98.55,96,71.64,20.42
+209,University 209,Delhi,Tier 3,Private,Mechanical Engineering,4159,7.21,553078,83.27,92,44.38,23.2
+210,University 210,Delhi,Tier 3,Private,Computer Science,3892,6.95,1576269,72.39,125,48.58,20.05
+210,University 210,Karnataka,Tier 3,Government,Electrical Engineering,6262,6.64,744244,74.92,151,33.55,19.25
+210,University 210,Delhi,Tier 3,Government,Mechanical Engineering,6972,7.64,339148,77.71,187,32.36,24.28
+211,University 211,Delhi,Tier 3,Private,Computer Science,5711,7.98,356116,72.72,63,46.75,22.25
+211,University 211,Maharashtra,Tier 1,Private,Electrical Engineering,4908,9.2,1491605,84.85,118,28.02,24.03
+211,University 211,Delhi,Tier 3,Private,Mechanical Engineering,2388,8.37,826925,63.97,185,36.53,14.98
+212,University 212,Maharashtra,Tier 1,Private,Computer Science,7450,6.72,929112,69.42,162,23.83,15.81
+212,University 212,Tamil Nadu,Tier 2,Private,Electrical Engineering,4985,6.16,536824,76.21,117,68.11,16.52
+212,University 212,Delhi,Tier 1,Private,Mechanical Engineering,8082,9.32,393246,86.14,124,55.58,17.34
+213,University 213,Delhi,Tier 2,Government,Computer Science,4407,6.2,835620,71.57,20,30.08,15.32
+213,University 213,Tamil Nadu,Tier 3,Private,Electrical Engineering,9098,8.02,1200853,66.07,68,40.34,21.93
+213,University 213,Karnataka,Tier 1,Government,Mechanical Engineering,1835,7.77,423777,97.36,145,22.3,15.52
+214,University 214,Tamil Nadu,Tier 3,Private,Computer Science,5022,9.18,1781177,83.28,130,63.04,16.65
+214,University 214,Karnataka,Tier 2,Private,Electrical Engineering,1706,8.44,1224501,94.55,143,24.13,18.25
+214,University 214,Karnataka,Tier 3,Private,Mechanical Engineering,8865,8.89,607124,62.49,170,78.31,17.69
+215,University 215,Maharashtra,Tier 2,Government,Computer Science,5428,8.28,1668108,67.71,81,50.79,20.73
+215,University 215,Tamil Nadu,Tier 1,Private,Electrical Engineering,7571,6.26,1864154,97.6,88,20.43,16.85
+215,University 215,Maharashtra,Tier 1,Government,Mechanical Engineering,1452,7.58,1821161,88.39,147,23.01,11.45
+216,University 216,Karnataka,Tier 1,Government,Computer Science,4149,6.65,1585844,63.17,164,66.47,12.02
+216,University 216,Karnataka,Tier 1,Private,Electrical Engineering,8338,6.09,1581507,82.48,160,65.71,23.4
+216,University 216,Delhi,Tier 3,Government,Mechanical Engineering,4875,7.67,508137,80.39,76,73.64,15.04
+217,University 217,Delhi,Tier 3,Private,Computer Science,4443,7.58,1906325,95.62,24,28.57,18.7
+217,University 217,Maharashtra,Tier 1,Government,Electrical Engineering,2407,8.48,1264844,62.2,40,43.54,16.71
+217,University 217,Maharashtra,Tier 3,Government,Mechanical Engineering,1997,6.22,797619,72.66,128,72.18,17.08
+218,University 218,Tamil Nadu,Tier 1,Government,Computer Science,6616,9.18,1693488,85.01,38,76.9,11.37
+218,University 218,Uttar Pradesh,Tier 2,Government,Electrical Engineering,3376,6.05,1621902,81.37,81,61.57,21.0
+218,University 218,Uttar Pradesh,Tier 1,Private,Mechanical Engineering,3810,6.83,1550854,76.23,192,23.34,11.94
+219,University 219,Karnataka,Tier 1,Government,Computer Science,3243,7.9,926701,71.82,189,79.42,19.17
+219,University 219,Maharashtra,Tier 2,Private,Electrical Engineering,6398,7.35,1499438,61.16,28,66.91,17.26
+219,University 219,Delhi,Tier 3,Private,Mechanical Engineering,8378,7.18,336160,67.5,128,50.27,13.91
+220,University 220,Tamil Nadu,Tier 2,Government,Computer Science,3939,7.8,605007,98.68,46,62.42,19.82
+220,University 220,Maharashtra,Tier 1,Private,Electrical Engineering,2502,8.51,714627,63.7,57,35.75,18.72
+220,University 220,Maharashtra,Tier 2,Private,Mechanical Engineering,3594,7.93,1517933,73.92,23,70.25,14.84
+221,University 221,Karnataka,Tier 2,Government,Computer Science,3765,8.41,458998,64.78,144,23.1,10.74
+221,University 221,Maharashtra,Tier 1,Government,Electrical Engineering,6816,6.17,1494601,72.83,197,20.41,21.46
+221,University 221,Uttar Pradesh,Tier 2,Private,Mechanical Engineering,7606,8.02,1154032,69.66,81,20.16,22.75
+222,University 222,Tamil Nadu,Tier 3,Government,Computer Science,1118,6.03,1987025,83.85,77,36.7,15.93
+222,University 222,Uttar Pradesh,Tier 1,Private,Electrical Engineering,7082,9.28,1962805,98.13,86,24.14,17.25
+222,University 222,Maharashtra,Tier 3,Government,Mechanical Engineering,6495,9.07,1204329,71.59,36,36.27,21.4
+223,University 223,Uttar Pradesh,Tier 1,Government,Computer Science,4557,9.42,628634,76.73,87,34.5,11.02
+223,University 223,Tamil Nadu,Tier 3,Private,Electrical Engineering,7763,7.51,1068460,94.33,97,20.76,19.67
+223,University 223,Karnataka,Tier 1,Government,Mechanical Engineering,2872,8.46,565976,91.11,85,39.76,20.4
+224,University 224,Uttar Pradesh,Tier 2,Government,Computer Science,3486,9.02,1048987,77.85,88,61.58,24.81
+224,University 224,Maharashtra,Tier 1,Government,Electrical Engineering,9684,8.13,555095,78.32,76,65.11,18.52
+224,University 224,Delhi,Tier 3,Government,Mechanical Engineering,4959,7.17,1209834,88.89,136,54.16,19.48
+225,University 225,Uttar Pradesh,Tier 3,Private,Computer Science,3590,6.82,1599270,71.86,89,30.91,17.56
+225,University 225,Maharashtra,Tier 2,Private,Electrical Engineering,7539,6.47,348784,78.2,89,62.46,11.59
+225,University 225,Uttar Pradesh,Tier 2,Private,Mechanical Engineering,8768,7.54,1084752,93.37,184,65.89,13.98
+226,University 226,Uttar Pradesh,Tier 3,Government,Computer Science,3833,8.24,1985876,94.65,83,52.73,12.0
+226,University 226,Karnataka,Tier 2,Government,Electrical Engineering,7368,6.36,618821,65.82,175,51.45,20.0
+226,University 226,Tamil Nadu,Tier 1,Government,Mechanical Engineering,3790,8.9,635639,85.72,113,26.74,10.74
+227,University 227,Uttar Pradesh,Tier 3,Government,Computer Science,4258,7.35,779702,92.85,72,70.1,20.66
+227,University 227,Tamil Nadu,Tier 1,Private,Electrical Engineering,9540,9.0,1120217,73.64,23,47.84,21.84
+227,University 227,Delhi,Tier 3,Government,Mechanical Engineering,2893,8.44,1282426,68.92,58,78.47,24.63
+228,University 228,Tamil Nadu,Tier 3,Government,Computer Science,5433,9.08,587166,65.13,178,35.31,21.52
+228,University 228,Tamil Nadu,Tier 2,Private,Electrical Engineering,2986,6.74,1753953,93.06,88,71.5,16.95
+228,University 228,Delhi,Tier 3,Private,Mechanical Engineering,4185,7.09,1702964,62.64,89,74.83,24.72
+229,University 229,Delhi,Tier 2,Private,Computer Science,6820,8.62,1655097,88.61,45,38.94,11.88
+229,University 229,Tamil Nadu,Tier 1,Private,Electrical Engineering,9450,9.04,1189694,98.91,74,49.64,23.04
+229,University 229,Tamil Nadu,Tier 2,Private,Mechanical Engineering,9186,6.48,993464,95.08,27,46.77,20.07
+230,University 230,Delhi,Tier 3,Private,Computer Science,2982,6.09,394455,61.95,77,56.35,19.48
+230,University 230,Delhi,Tier 1,Government,Electrical Engineering,6785,8.64,586287,94.78,128,31.05,10.86
+230,University 230,Maharashtra,Tier 1,Private,Mechanical Engineering,5709,6.17,370309,68.11,136,39.6,15.24
+231,University 231,Tamil Nadu,Tier 1,Private,Computer Science,2564,8.57,994186,93.54,91,64.5,20.13
+231,University 231,Uttar Pradesh,Tier 1,Government,Electrical Engineering,2081,6.45,1166164,84.79,106,57.7,12.76
+231,University 231,Delhi,Tier 3,Private,Mechanical Engineering,9828,7.13,464404,91.26,101,70.07,10.84
+232,University 232,Delhi,Tier 3,Private,Computer Science,2235,8.24,1147056,77.28,136,22.01,18.7
+232,University 232,Tamil Nadu,Tier 2,Government,Electrical Engineering,6335,6.82,1288651,61.92,96,32.7,12.16
+232,University 232,Tamil Nadu,Tier 3,Government,Mechanical Engineering,2294,8.39,1048224,90.19,134,74.7,23.92
+233,University 233,Delhi,Tier 2,Government,Computer Science,6073,9.44,1914120,74.18,78,47.47,13.88
+233,University 233,Maharashtra,Tier 2,Government,Electrical Engineering,6988,9.32,536545,96.28,179,78.1,16.79
+233,University 233,Karnataka,Tier 1,Government,Mechanical Engineering,4259,6.66,403535,92.73,55,28.63,11.57
+234,University 234,Uttar Pradesh,Tier 3,Government,Computer Science,5402,6.46,1857098,89.35,120,25.86,12.5
+234,University 234,Karnataka,Tier 1,Private,Electrical Engineering,2487,8.3,1014261,69.18,119,60.96,19.43
+234,University 234,Delhi,Tier 2,Private,Mechanical Engineering,2620,7.51,1443995,82.78,92,45.49,15.13
+235,University 235,Uttar Pradesh,Tier 2,Private,Computer Science,8226,8.4,1172377,87.47,198,67.91,11.61
+235,University 235,Tamil Nadu,Tier 3,Government,Electrical Engineering,8823,7.57,1438422,63.13,152,65.73,24.04
+235,University 235,Uttar Pradesh,Tier 3,Government,Mechanical Engineering,9553,8.58,1975363,95.03,81,74.73,19.5
+236,University 236,Maharashtra,Tier 3,Private,Computer Science,5727,8.77,1953070,75.01,101,47.46,11.43
+236,University 236,Tamil Nadu,Tier 2,Government,Electrical Engineering,5157,6.61,1580101,60.68,39,69.18,24.99
+236,University 236,Delhi,Tier 3,Private,Mechanical Engineering,4936,9.38,1532676,63.36,117,67.71,12.04
+237,University 237,Delhi,Tier 1,Private,Computer Science,8456,7.05,546301,68.53,48,68.96,15.67
+237,University 237,Maharashtra,Tier 2,Private,Electrical Engineering,5675,7.46,448620,96.24,182,69.25,14.22
+237,University 237,Delhi,Tier 2,Government,Mechanical Engineering,9363,6.42,1168331,91.46,115,49.8,22.64
+238,University 238,Uttar Pradesh,Tier 2,Private,Computer Science,2353,8.56,882314,74.43,181,58.24,11.06
+238,University 238,Tamil Nadu,Tier 1,Government,Electrical Engineering,3073,8.22,495991,77.28,62,43.42,23.37
+238,University 238,Karnataka,Tier 1,Private,Mechanical Engineering,8129,6.54,1612867,63.74,65,58.62,14.16
+239,University 239,Uttar Pradesh,Tier 3,Government,Computer Science,3428,7.12,1095911,95.28,130,77.58,22.77
+239,University 239,Maharashtra,Tier 3,Government,Electrical Engineering,7986,8.67,1680679,87.59,174,21.2,18.8
+239,University 239,Tamil Nadu,Tier 2,Private,Mechanical Engineering,8867,8.51,1635250,95.12,116,33.98,22.2
+240,University 240,Uttar Pradesh,Tier 1,Private,Computer Science,7875,6.24,701072,76.63,41,64.34,10.44
+240,University 240,Tamil Nadu,Tier 3,Government,Electrical Engineering,2770,8.45,574548,85.07,163,62.12,17.61
+240,University 240,Maharashtra,Tier 1,Private,Mechanical Engineering,2392,9.04,969745,78.05,165,55.17,17.39
+241,University 241,Uttar Pradesh,Tier 1,Government,Computer Science,5541,6.86,1551397,93.27,25,49.21,24.02
+241,University 241,Tamil Nadu,Tier 3,Private,Electrical Engineering,5550,6.52,1365560,84.92,157,66.68,13.31
+241,University 241,Karnataka,Tier 2,Government,Mechanical Engineering,9417,8.49,1287938,80.69,139,71.31,15.38
+242,University 242,Maharashtra,Tier 3,Government,Computer Science,4281,9.38,1583531,85.92,158,37.37,17.19
+242,University 242,Maharashtra,Tier 3,Private,Electrical Engineering,6694,7.44,1845739,63.15,149,21.48,16.1
+242,University 242,Tamil Nadu,Tier 2,Private,Mechanical Engineering,1028,6.84,448469,61.66,114,34.06,10.29
+243,University 243,Uttar Pradesh,Tier 1,Private,Computer Science,6791,7.2,849633,70.75,85,60.82,22.38
+243,University 243,Uttar Pradesh,Tier 1,Government,Electrical Engineering,5601,8.77,642808,61.26,86,57.99,23.49
+243,University 243,Delhi,Tier 1,Government,Mechanical Engineering,2428,8.95,910682,76.26,63,49.03,23.46
+244,University 244,Tamil Nadu,Tier 2,Private,Computer Science,1075,8.85,1615777,68.04,177,28.87,24.11
+244,University 244,Delhi,Tier 3,Government,Electrical Engineering,6057,7.88,767616,70.94,193,21.02,24.41
+244,University 244,Tamil Nadu,Tier 3,Government,Mechanical Engineering,5071,7.98,892610,61.98,120,69.36,10.2
+245,University 245,Delhi,Tier 1,Government,Computer Science,8422,8.86,1758835,87.38,149,65.93,13.15
+245,University 245,Maharashtra,Tier 1,Government,Electrical Engineering,1818,9.01,921458,84.52,172,25.03,19.65
+245,University 245,Delhi,Tier 2,Private,Mechanical Engineering,5792,8.81,1299291,99.16,178,32.39,21.03
+246,University 246,Maharashtra,Tier 2,Private,Computer Science,9699,8.85,365867,71.88,58,77.79,23.76
+246,University 246,Karnataka,Tier 1,Private,Electrical Engineering,7614,6.35,690732,98.43,34,34.02,19.59
+246,University 246,Maharashtra,Tier 2,Private,Mechanical Engineering,6424,7.35,1646649,61.78,74,45.65,12.41
+247,University 247,Uttar Pradesh,Tier 1,Government,Computer Science,9624,6.28,1438452,97.45,76,41.69,15.38
+247,University 247,Delhi,Tier 2,Government,Electrical Engineering,8860,7.73,1257004,92.22,52,69.92,16.05
+247,University 247,Maharashtra,Tier 1,Private,Mechanical Engineering,8799,7.7,562739,82.3,93,34.33,24.24
+248,University 248,Tamil Nadu,Tier 2,Government,Computer Science,5317,7.07,312879,87.58,35,53.1,15.35
+248,University 248,Maharashtra,Tier 1,Private,Electrical Engineering,9106,7.32,1816831,69.74,46,65.57,13.09
+248,University 248,Karnataka,Tier 1,Government,Mechanical Engineering,7085,7.0,782870,82.55,64,64.52,10.78
+249,University 249,Uttar Pradesh,Tier 1,Private,Computer Science,4253,6.64,808670,88.91,78,74.35,11.9
+249,University 249,Maharashtra,Tier 2,Private,Electrical Engineering,4513,6.69,1452702,99.06,44,39.29,10.52
+249,University 249,Uttar Pradesh,Tier 1,Private,Mechanical Engineering,9328,8.31,1828127,61.52,125,51.68,13.03
+250,University 250,Karnataka,Tier 3,Government,Computer Science,4870,9.03,1619910,80.39,106,26.91,18.82
+250,University 250,Tamil Nadu,Tier 1,Government,Electrical Engineering,3510,9.08,1040970,63.1,149,57.23,19.58
+250,University 250,Uttar Pradesh,Tier 2,Government,Mechanical Engineering,1058,8.81,583466,78.85,142,64.42,11.77
+251,University 251,Uttar Pradesh,Tier 3,Private,Computer Science,1561,6.1,1612457,85.0,158,54.79,18.1
+251,University 251,Delhi,Tier 3,Private,Electrical Engineering,8095,6.66,1348870,68.11,157,63.4,12.04
+251,University 251,Delhi,Tier 2,Government,Mechanical Engineering,2164,9.11,949179,79.56,28,32.28,18.5
+252,University 252,Delhi,Tier 2,Private,Computer Science,8111,8.19,1631711,74.78,114,50.72,17.91
+252,University 252,Tamil Nadu,Tier 1,Private,Electrical Engineering,1769,8.53,973616,79.96,175,43.37,13.62
+252,University 252,Tamil Nadu,Tier 2,Government,Mechanical Engineering,9420,6.35,1506117,91.31,66,20.13,19.58
+253,University 253,Maharashtra,Tier 2,Private,Computer Science,5939,6.73,1402491,84.44,170,73.64,17.83
+253,University 253,Uttar Pradesh,Tier 3,Private,Electrical Engineering,4867,7.69,831661,76.09,43,60.91,23.33
+253,University 253,Delhi,Tier 3,Private,Mechanical Engineering,7404,6.37,1866049,66.14,122,53.94,10.23
+254,University 254,Delhi,Tier 2,Government,Computer Science,3983,6.67,397469,75.17,72,27.28,24.79
+254,University 254,Uttar Pradesh,Tier 1,Government,Electrical Engineering,2220,7.94,1082046,75.35,167,29.55,15.31
+254,University 254,Tamil Nadu,Tier 3,Government,Mechanical Engineering,2724,6.75,1882369,81.77,77,50.02,16.23
+255,University 255,Maharashtra,Tier 1,Private,Computer Science,1792,8.52,1151563,82.27,58,30.44,15.06
+255,University 255,Uttar Pradesh,Tier 3,Private,Electrical Engineering,8314,8.17,1415770,93.45,180,72.97,17.09
+255,University 255,Tamil Nadu,Tier 1,Government,Mechanical Engineering,6578,9.16,609963,99.26,126,40.46,23.49
+256,University 256,Tamil Nadu,Tier 2,Private,Computer Science,5808,8.33,805180,81.98,120,57.32,19.1
+256,University 256,Karnataka,Tier 3,Private,Electrical Engineering,1748,7.97,1281226,75.36,59,28.5,11.54
+256,University 256,Maharashtra,Tier 2,Private,Mechanical Engineering,5232,6.5,1479042,98.58,73,72.09,23.22
+257,University 257,Karnataka,Tier 2,Government,Computer Science,3989,8.54,882933,91.32,27,21.3,19.47
+257,University 257,Delhi,Tier 3,Private,Electrical Engineering,2831,7.27,372782,92.35,36,73.32,17.26
+257,University 257,Delhi,Tier 1,Government,Mechanical Engineering,8280,8.53,464244,72.58,29,61.1,20.62
+258,University 258,Delhi,Tier 1,Private,Computer Science,7382,6.29,1218472,98.03,158,48.0,10.79
+258,University 258,Maharashtra,Tier 1,Government,Electrical Engineering,2469,7.88,834580,69.72,75,30.09,12.85
+258,University 258,Karnataka,Tier 1,Private,Mechanical Engineering,1779,6.87,1236780,86.88,121,69.47,16.27
+259,University 259,Delhi,Tier 3,Private,Computer Science,4641,8.48,444378,67.01,26,22.25,18.54
+259,University 259,Uttar Pradesh,Tier 2,Private,Electrical Engineering,9281,7.89,1146056,96.79,96,60.42,10.97
+259,University 259,Karnataka,Tier 1,Private,Mechanical Engineering,7284,8.2,636497,83.29,174,57.93,17.55
+260,University 260,Maharashtra,Tier 2,Private,Computer Science,2736,6.67,721743,87.1,172,22.37,21.12
+260,University 260,Delhi,Tier 2,Government,Electrical Engineering,1667,8.42,678226,69.87,90,57.71,18.36
+260,University 260,Delhi,Tier 3,Government,Mechanical Engineering,4190,7.98,1380701,85.95,71,65.01,20.4
+261,University 261,Uttar Pradesh,Tier 2,Private,Computer Science,7895,7.55,1546715,94.28,132,52.93,21.94
+261,University 261,Uttar Pradesh,Tier 1,Private,Electrical Engineering,3423,7.15,877701,76.55,112,76.44,10.72
+261,University 261,Karnataka,Tier 3,Government,Mechanical Engineering,7222,6.7,1072783,75.42,108,64.12,21.96
+262,University 262,Uttar Pradesh,Tier 3,Private,Computer Science,1225,6.92,451733,64.12,163,66.01,14.02
+262,University 262,Uttar Pradesh,Tier 2,Government,Electrical Engineering,1393,9.09,538411,63.02,89,53.73,18.29
+262,University 262,Maharashtra,Tier 2,Government,Mechanical Engineering,3268,7.85,1617933,88.55,27,63.37,10.49
+263,University 263,Delhi,Tier 2,Private,Computer Science,2909,7.69,836350,71.53,191,70.47,24.95
+263,University 263,Maharashtra,Tier 2,Private,Electrical Engineering,7166,9.17,1692262,62.5,150,33.82,20.28
+263,University 263,Maharashtra,Tier 2,Government,Mechanical Engineering,5607,6.19,450635,74.26,81,76.04,21.5
+264,University 264,Uttar Pradesh,Tier 3,Private,Computer Science,1837,9.39,689821,86.0,120,57.32,18.1
+264,University 264,Karnataka,Tier 1,Private,Electrical Engineering,5418,7.69,372178,76.23,66,31.69,17.37
+264,University 264,Uttar Pradesh,Tier 3,Government,Mechanical Engineering,5784,6.97,1882828,71.96,129,34.29,15.83
+265,University 265,Delhi,Tier 1,Private,Computer Science,9728,6.51,1971401,91.22,113,56.46,24.75
+265,University 265,Tamil Nadu,Tier 1,Private,Electrical Engineering,9226,8.83,499899,96.61,42,40.93,23.85
+265,University 265,Maharashtra,Tier 2,Government,Mechanical Engineering,8869,8.96,781153,68.38,76,29.34,13.38
+266,University 266,Tamil Nadu,Tier 1,Private,Computer Science,8756,9.18,1495412,60.99,38,24.8,15.39
+266,University 266,Delhi,Tier 2,Government,Electrical Engineering,4581,6.4,1627676,68.82,122,72.08,17.5
+266,University 266,Tamil Nadu,Tier 3,Private,Mechanical Engineering,6906,8.18,1759525,92.2,184,40.18,17.79
+267,University 267,Maharashtra,Tier 1,Government,Computer Science,6246,8.35,1990129,89.74,158,40.05,17.83
+267,University 267,Karnataka,Tier 1,Private,Electrical Engineering,3513,6.09,538366,74.65,129,65.3,24.33
+267,University 267,Delhi,Tier 1,Private,Mechanical Engineering,8320,7.41,1170229,66.19,183,69.12,11.75
+268,University 268,Delhi,Tier 3,Government,Computer Science,1665,7.97,322995,78.09,75,72.88,11.17
+268,University 268,Karnataka,Tier 1,Private,Electrical Engineering,1519,7.99,1851832,86.48,85,64.37,11.3
+268,University 268,Uttar Pradesh,Tier 2,Private,Mechanical Engineering,7256,7.65,1675520,71.48,96,67.43,16.81
+269,University 269,Tamil Nadu,Tier 3,Government,Computer Science,5798,6.41,493691,90.76,190,54.9,18.0
+269,University 269,Maharashtra,Tier 3,Private,Electrical Engineering,5543,8.82,1747544,78.99,93,27.74,18.05
+269,University 269,Karnataka,Tier 3,Government,Mechanical Engineering,1022,6.3,1390284,62.28,84,26.11,20.93
+270,University 270,Maharashtra,Tier 1,Government,Computer Science,8001,6.7,463543,64.53,125,66.03,24.59
+270,University 270,Uttar Pradesh,Tier 2,Government,Electrical Engineering,4241,8.6,829862,76.48,71,52.96,23.95
+270,University 270,Maharashtra,Tier 2,Private,Mechanical Engineering,6783,7.6,1648894,83.49,29,46.99,21.35
+271,University 271,Tamil Nadu,Tier 3,Government,Computer Science,2079,6.94,1952332,95.94,157,31.37,23.38
+271,University 271,Uttar Pradesh,Tier 3,Government,Electrical Engineering,4985,7.53,524872,67.13,123,55.13,17.82
+271,University 271,Uttar Pradesh,Tier 1,Government,Mechanical Engineering,5864,8.83,1859764,89.86,168,65.41,14.98
+272,University 272,Karnataka,Tier 2,Government,Computer Science,2309,6.98,1884919,92.31,43,69.84,18.57
+272,University 272,Delhi,Tier 2,Private,Electrical Engineering,1421,8.29,1491408,90.09,182,38.56,20.41
+272,University 272,Uttar Pradesh,Tier 2,Government,Mechanical Engineering,2308,7.9,817257,91.61,161,44.92,14.25
+273,University 273,Uttar Pradesh,Tier 2,Government,Computer Science,5480,7.24,1437273,75.3,100,54.27,21.18
+273,University 273,Karnataka,Tier 3,Government,Electrical Engineering,1109,8.86,1306152,70.69,119,33.64,15.09
+273,University 273,Maharashtra,Tier 1,Private,Mechanical Engineering,1145,8.88,709898,60.5,153,25.36,16.57
+274,University 274,Delhi,Tier 1,Government,Computer Science,1486,8.9,303196,83.84,81,21.04,18.25
+274,University 274,Uttar Pradesh,Tier 2,Government,Electrical Engineering,7843,6.78,1801688,76.67,151,59.87,20.63
+274,University 274,Delhi,Tier 2,Government,Mechanical Engineering,9023,9.28,1105408,90.57,47,58.36,22.8
+275,University 275,Uttar Pradesh,Tier 1,Private,Computer Science,3440,6.26,971502,99.99,88,37.24,18.37
+275,University 275,Maharashtra,Tier 3,Government,Electrical Engineering,5663,6.0,1865976,67.02,153,54.34,24.99
+275,University 275,Karnataka,Tier 1,Government,Mechanical Engineering,5320,6.56,304677,62.58,188,52.64,18.4
+276,University 276,Karnataka,Tier 1,Government,Computer Science,2689,7.01,766516,94.8,70,37.24,21.05
+276,University 276,Delhi,Tier 3,Private,Electrical Engineering,6641,6.19,449457,77.04,40,50.19,14.74
+276,University 276,Delhi,Tier 2,Government,Mechanical Engineering,7523,9.02,1668608,82.02,80,39.98,11.87
+277,University 277,Delhi,Tier 1,Government,Computer Science,9974,7.0,1097406,99.93,128,25.88,17.9
+277,University 277,Delhi,Tier 2,Government,Electrical Engineering,6087,7.63,924762,91.54,100,64.37,16.39
+277,University 277,Delhi,Tier 1,Government,Mechanical Engineering,3756,6.35,1642942,60.51,39,68.45,17.63
+278,University 278,Maharashtra,Tier 2,Private,Computer Science,9984,8.09,1783733,79.29,53,78.51,24.49
+278,University 278,Uttar Pradesh,Tier 2,Private,Electrical Engineering,1583,9.26,912236,75.5,191,75.11,23.56
+278,University 278,Uttar Pradesh,Tier 3,Government,Mechanical Engineering,6285,8.17,1224276,71.55,167,74.88,12.5
+279,University 279,Uttar Pradesh,Tier 2,Private,Computer Science,4272,7.16,508542,76.65,87,50.45,16.02
+279,University 279,Karnataka,Tier 2,Government,Electrical Engineering,5240,8.41,1976466,60.78,82,50.49,21.03
+279,University 279,Maharashtra,Tier 3,Private,Mechanical Engineering,2734,6.25,1649397,94.91,178,24.66,17.99
+280,University 280,Delhi,Tier 1,Private,Computer Science,3191,6.53,1604140,80.12,50,57.2,15.1
+280,University 280,Tamil Nadu,Tier 1,Private,Electrical Engineering,4167,7.7,617817,70.62,124,20.59,11.13
+280,University 280,Karnataka,Tier 3,Private,Mechanical Engineering,3185,6.02,892141,68.27,64,70.52,17.24
+281,University 281,Tamil Nadu,Tier 1,Government,Computer Science,6404,9.26,1445070,90.24,196,73.77,22.1
+281,University 281,Uttar Pradesh,Tier 2,Private,Electrical Engineering,9444,6.7,1102523,85.15,22,35.75,10.79
+281,University 281,Maharashtra,Tier 1,Private,Mechanical Engineering,3568,7.69,536436,62.79,158,75.62,19.73
+282,University 282,Tamil Nadu,Tier 3,Private,Computer Science,1869,7.44,1712011,94.64,110,32.62,18.49
+282,University 282,Karnataka,Tier 3,Government,Electrical Engineering,7524,7.41,1280043,71.27,67,58.29,14.81
+282,University 282,Delhi,Tier 3,Private,Mechanical Engineering,3873,6.45,1837746,77.83,96,39.04,21.49
+283,University 283,Uttar Pradesh,Tier 2,Private,Computer Science,8737,8.08,668781,86.92,103,24.34,14.36
+283,University 283,Delhi,Tier 2,Government,Electrical Engineering,4374,6.07,1527201,69.72,62,46.81,10.11
+283,University 283,Karnataka,Tier 2,Private,Mechanical Engineering,8226,8.37,726941,98.24,70,39.14,24.53
+284,University 284,Karnataka,Tier 3,Private,Computer Science,6374,7.48,1948406,93.7,64,59.63,17.06
+284,University 284,Karnataka,Tier 2,Private,Electrical Engineering,1941,7.45,1280213,71.7,176,64.92,22.42
+284,University 284,Maharashtra,Tier 3,Private,Mechanical Engineering,9853,7.88,1381159,74.11,92,70.55,14.55
+285,University 285,Delhi,Tier 1,Private,Computer Science,1271,7.29,844748,97.88,34,40.93,20.41
+285,University 285,Karnataka,Tier 2,Government,Electrical Engineering,9529,9.19,469446,84.86,76,31.21,22.47
+285,University 285,Tamil Nadu,Tier 1,Private,Mechanical Engineering,5366,7.87,1335108,64.05,177,32.49,13.76
+286,University 286,Uttar Pradesh,Tier 1,Government,Computer Science,3689,8.48,564954,94.63,28,74.15,11.1
+286,University 286,Karnataka,Tier 1,Private,Electrical Engineering,4683,8.86,813214,94.35,160,56.23,17.4
+286,University 286,Tamil Nadu,Tier 2,Private,Mechanical Engineering,5512,6.01,912082,86.67,29,35.56,19.54
+287,University 287,Delhi,Tier 3,Private,Computer Science,9593,9.49,1862607,81.51,103,35.96,18.86
+287,University 287,Tamil Nadu,Tier 1,Private,Electrical Engineering,7449,9.26,1357880,87.53,115,21.22,13.08
+287,University 287,Maharashtra,Tier 3,Private,Mechanical Engineering,9808,9.25,1730024,79.62,197,73.27,16.83
+288,University 288,Maharashtra,Tier 2,Private,Computer Science,2423,6.05,532366,87.08,33,58.03,16.75
+288,University 288,Tamil Nadu,Tier 2,Private,Electrical Engineering,2306,9.24,1411766,74.6,42,57.39,11.12
+288,University 288,Uttar Pradesh,Tier 1,Government,Mechanical Engineering,9515,8.01,1148607,94.98,109,64.3,15.03
+289,University 289,Karnataka,Tier 3,Government,Computer Science,2019,7.04,1300850,60.73,107,51.45,14.25
+289,University 289,Uttar Pradesh,Tier 1,Government,Electrical Engineering,4003,7.69,922207,87.57,36,22.59,14.64
+289,University 289,Delhi,Tier 2,Government,Mechanical Engineering,8377,8.29,468678,95.59,123,39.29,24.97
+290,University 290,Uttar Pradesh,Tier 2,Private,Computer Science,4406,6.23,1843225,86.56,29,72.89,16.24
+290,University 290,Delhi,Tier 3,Government,Electrical Engineering,6873,8.41,1370804,80.68,75,38.66,14.9
+290,University 290,Uttar Pradesh,Tier 1,Private,Mechanical Engineering,1446,8.71,1024135,81.36,171,55.04,11.24
+291,University 291,Maharashtra,Tier 2,Government,Computer Science,8741,6.6,1940913,71.31,109,53.25,17.91
+291,University 291,Uttar Pradesh,Tier 3,Government,Electrical Engineering,1364,8.19,764710,89.45,150,59.37,17.07
+291,University 291,Karnataka,Tier 2,Private,Mechanical Engineering,4960,8.52,1999703,95.65,128,24.63,14.59
+292,University 292,Tamil Nadu,Tier 1,Private,Computer Science,5830,6.98,972225,70.81,97,50.51,14.78
+292,University 292,Karnataka,Tier 1,Government,Electrical Engineering,1865,6.25,1517745,85.17,198,62.67,10.78
+292,University 292,Tamil Nadu,Tier 2,Private,Mechanical Engineering,2879,9.17,784427,73.85,168,64.98,11.45
+293,University 293,Uttar Pradesh,Tier 1,Private,Computer Science,6392,9.44,1583644,72.59,93,48.68,17.07
+293,University 293,Uttar Pradesh,Tier 1,Government,Electrical Engineering,7576,6.89,1675330,64.52,165,50.3,12.65
+293,University 293,Tamil Nadu,Tier 3,Private,Mechanical Engineering,8986,7.63,477265,89.37,194,28.13,17.78
+294,University 294,Maharashtra,Tier 1,Government,Computer Science,5893,7.72,879294,76.27,50,45.22,24.15
+294,University 294,Uttar Pradesh,Tier 1,Government,Electrical Engineering,8727,6.25,1391589,65.9,119,26.21,11.61
+294,University 294,Maharashtra,Tier 3,Government,Mechanical Engineering,4118,9.31,672333,77.55,143,38.14,23.43
+295,University 295,Delhi,Tier 1,Private,Computer Science,8939,7.99,378097,82.46,180,46.54,10.69
+295,University 295,Maharashtra,Tier 3,Government,Electrical Engineering,3107,6.5,646997,94.75,162,78.09,21.69
+295,University 295,Karnataka,Tier 2,Private,Mechanical Engineering,2690,8.89,1752765,86.74,45,30.15,14.84
+296,University 296,Maharashtra,Tier 1,Government,Computer Science,5490,7.12,694813,70.16,75,22.63,20.81
+296,University 296,Delhi,Tier 1,Government,Electrical Engineering,3506,6.67,435797,76.35,75,64.69,11.19
+296,University 296,Tamil Nadu,Tier 2,Private,Mechanical Engineering,9831,7.24,1058201,98.56,83,21.41,16.45
+297,University 297,Uttar Pradesh,Tier 1,Private,Computer Science,4988,6.33,660704,99.7,52,54.22,10.8
+297,University 297,Tamil Nadu,Tier 1,Government,Electrical Engineering,2832,7.76,1605927,97.99,75,70.55,20.84
+297,University 297,Maharashtra,Tier 1,Government,Mechanical Engineering,1256,6.56,1322697,95.83,166,49.25,15.46
+298,University 298,Uttar Pradesh,Tier 1,Private,Computer Science,4216,7.51,1549699,74.94,68,22.44,23.71
+298,University 298,Tamil Nadu,Tier 3,Government,Electrical Engineering,1976,6.11,594957,77.67,180,38.2,15.44
+298,University 298,Delhi,Tier 2,Private,Mechanical Engineering,5183,9.32,1993397,69.3,145,48.94,20.54
+299,University 299,Tamil Nadu,Tier 3,Private,Computer Science,3108,8.58,1046714,63.91,178,32.91,22.92
+299,University 299,Delhi,Tier 3,Government,Electrical Engineering,4900,7.23,1034665,91.34,23,36.11,19.81
+299,University 299,Tamil Nadu,Tier 2,Private,Mechanical Engineering,1382,7.49,1397034,70.71,124,57.17,20.13
+300,University 300,Tamil Nadu,Tier 3,Government,Computer Science,8714,7.74,419119,99.4,140,65.63,24.77
+300,University 300,Delhi,Tier 2,Private,Electrical Engineering,3422,9.06,1983959,70.79,191,52.44,22.74
+300,University 300,Maharashtra,Tier 2,Government,Mechanical Engineering,7604,7.8,1295791,96.04,21,51.15,14.47
+301,University 301,Uttar Pradesh,Tier 1,Government,Computer Science,3022,6.57,345708,83.55,156,61.03,17.53
+301,University 301,Uttar Pradesh,Tier 1,Government,Electrical Engineering,5865,8.41,1257642,71.32,99,21.45,15.23
+301,University 301,Delhi,Tier 2,Private,Mechanical Engineering,3666,8.84,994096,95.8,153,61.38,14.52
+302,University 302,Maharashtra,Tier 3,Private,Computer Science,5118,7.64,429789,74.54,78,60.18,24.56
+302,University 302,Maharashtra,Tier 1,Government,Electrical Engineering,7083,7.56,1335211,80.65,40,61.27,22.96
+302,University 302,Tamil Nadu,Tier 1,Government,Mechanical Engineering,1671,8.5,335790,87.6,47,44.95,17.04
+303,University 303,Karnataka,Tier 3,Government,Computer Science,7763,7.08,987790,95.51,42,37.17,16.9
+303,University 303,Delhi,Tier 2,Government,Electrical Engineering,5608,9.14,1405700,94.43,108,36.78,11.91
+303,University 303,Uttar Pradesh,Tier 2,Private,Mechanical Engineering,6901,8.64,613760,73.59,150,70.54,21.41
+304,University 304,Karnataka,Tier 1,Government,Computer Science,8338,6.68,442617,77.49,57,56.24,23.07
+304,University 304,Karnataka,Tier 3,Government,Electrical Engineering,4218,9.49,1744629,74.69,142,42.1,15.6
+304,University 304,Delhi,Tier 2,Government,Mechanical Engineering,5150,8.92,981376,71.66,88,22.3,23.06
+305,University 305,Maharashtra,Tier 2,Government,Computer Science,7860,8.99,423351,60.51,96,46.8,15.14
+305,University 305,Uttar Pradesh,Tier 1,Private,Electrical Engineering,5562,7.74,1701823,69.98,88,77.47,23.26
+305,University 305,Delhi,Tier 1,Government,Mechanical Engineering,7429,6.95,1694271,63.13,26,50.22,23.01
+306,University 306,Delhi,Tier 3,Private,Computer Science,1929,9.4,1846360,65.19,141,76.78,16.22
+306,University 306,Uttar Pradesh,Tier 1,Government,Electrical Engineering,7343,8.93,1873780,79.75,146,66.18,17.32
+306,University 306,Karnataka,Tier 2,Private,Mechanical Engineering,5928,8.75,1285730,72.98,156,59.47,24.39
+307,University 307,Uttar Pradesh,Tier 2,Government,Computer Science,9578,8.53,797393,81.9,160,45.65,14.08
+307,University 307,Delhi,Tier 3,Government,Electrical Engineering,6013,7.75,775551,79.69,104,67.34,15.26
+307,University 307,Uttar Pradesh,Tier 1,Government,Mechanical Engineering,7616,9.06,1582322,83.64,89,47.54,13.58
+308,University 308,Karnataka,Tier 2,Private,Computer Science,6969,7.43,1797827,94.22,184,46.98,12.83
+308,University 308,Delhi,Tier 2,Private,Electrical Engineering,6591,6.1,754623,73.98,50,50.02,23.41
+308,University 308,Maharashtra,Tier 2,Private,Mechanical Engineering,3389,6.33,1264211,81.69,33,62.4,14.47
+309,University 309,Karnataka,Tier 3,Private,Computer Science,7780,7.71,630810,88.22,38,43.66,10.02
+309,University 309,Maharashtra,Tier 3,Government,Electrical Engineering,5088,7.34,1203057,92.99,52,24.45,12.88
+309,University 309,Delhi,Tier 3,Private,Mechanical Engineering,8953,9.49,1259296,99.61,155,20.71,24.96
+310,University 310,Delhi,Tier 3,Private,Computer Science,4409,8.75,487486,96.16,165,70.44,22.71
+310,University 310,Maharashtra,Tier 3,Private,Electrical Engineering,3484,6.63,560440,93.62,169,34.72,16.73
+310,University 310,Karnataka,Tier 1,Government,Mechanical Engineering,8743,9.37,458988,94.44,24,25.54,20.94
+311,University 311,Maharashtra,Tier 1,Private,Computer Science,6559,9.11,320968,76.24,48,65.04,17.33
+311,University 311,Maharashtra,Tier 2,Private,Electrical Engineering,3114,8.93,1974262,96.88,170,53.42,23.41
+311,University 311,Delhi,Tier 1,Private,Mechanical Engineering,1694,6.92,1017116,90.24,137,32.01,14.79
+312,University 312,Uttar Pradesh,Tier 2,Government,Computer Science,5218,6.26,1612588,92.48,31,62.98,20.04
+312,University 312,Delhi,Tier 1,Government,Electrical Engineering,1253,6.13,1892023,93.67,88,50.02,15.36
+312,University 312,Maharashtra,Tier 3,Private,Mechanical Engineering,9457,9.05,510126,90.6,51,53.68,23.24
+313,University 313,Tamil Nadu,Tier 2,Private,Computer Science,6539,8.02,1553790,80.91,24,24.41,10.8
+313,University 313,Tamil Nadu,Tier 3,Government,Electrical Engineering,3787,8.15,307399,89.58,49,66.09,21.21
+313,University 313,Maharashtra,Tier 2,Private,Mechanical Engineering,2472,7.99,600763,95.24,166,72.95,18.74
+314,University 314,Maharashtra,Tier 1,Government,Computer Science,5722,8.96,734895,73.76,103,62.68,11.5
+314,University 314,Tamil Nadu,Tier 3,Private,Electrical Engineering,4523,8.79,1899826,82.17,151,48.77,10.24
+314,University 314,Maharashtra,Tier 1,Government,Mechanical Engineering,1502,6.83,331541,83.27,114,77.25,13.35
+315,University 315,Uttar Pradesh,Tier 2,Government,Computer Science,4772,9.45,1792273,76.3,20,20.32,21.22
+315,University 315,Delhi,Tier 2,Private,Electrical Engineering,2573,6.34,1400362,88.3,198,52.54,17.91
+315,University 315,Karnataka,Tier 3,Private,Mechanical Engineering,2160,8.84,1039663,94.98,109,32.52,19.98
+316,University 316,Karnataka,Tier 1,Private,Computer Science,9370,7.62,1629064,77.79,135,64.5,14.54
+316,University 316,Maharashtra,Tier 1,Private,Electrical Engineering,6283,6.45,572859,80.78,189,64.9,13.93
+316,University 316,Delhi,Tier 2,Private,Mechanical Engineering,2361,6.69,628206,63.24,32,43.49,20.7
+317,University 317,Maharashtra,Tier 3,Government,Computer Science,9625,6.99,709142,93.62,32,63.14,17.56
+317,University 317,Delhi,Tier 2,Government,Electrical Engineering,9988,7.14,1291993,69.19,120,68.2,23.46
+317,University 317,Delhi,Tier 2,Private,Mechanical Engineering,9007,7.01,1465995,60.52,59,37.62,15.99
+318,University 318,Delhi,Tier 1,Government,Computer Science,1768,7.37,652699,98.19,22,76.04,13.05
+318,University 318,Karnataka,Tier 2,Private,Electrical Engineering,6558,8.38,536502,70.54,163,68.04,16.81
+318,University 318,Uttar Pradesh,Tier 1,Government,Mechanical Engineering,9011,7.33,1252155,69.9,37,35.42,10.31
+319,University 319,Maharashtra,Tier 3,Government,Computer Science,9050,6.36,1828032,78.38,50,50.96,13.8
+319,University 319,Maharashtra,Tier 3,Government,Electrical Engineering,3015,9.34,1292934,88.61,73,47.1,22.85
+319,University 319,Tamil Nadu,Tier 3,Government,Mechanical Engineering,4883,7.96,1717240,76.21,103,44.81,13.09
+320,University 320,Delhi,Tier 3,Government,Computer Science,7884,9.17,1031455,75.32,124,54.1,16.59
+320,University 320,Tamil Nadu,Tier 3,Private,Electrical Engineering,5023,8.87,1516383,69.14,163,22.0,23.69
+320,University 320,Maharashtra,Tier 2,Private,Mechanical Engineering,1232,6.88,843803,71.83,184,45.27,16.16
+321,University 321,Delhi,Tier 1,Government,Computer Science,1889,7.01,1824457,60.37,191,44.14,15.62
+321,University 321,Karnataka,Tier 2,Private,Electrical Engineering,8624,6.03,1763559,91.06,154,76.41,23.38
+321,University 321,Uttar Pradesh,Tier 3,Private,Mechanical Engineering,8388,8.29,1722771,68.97,153,23.24,16.86
+322,University 322,Maharashtra,Tier 3,Government,Computer Science,8372,8.88,671087,75.35,165,39.0,16.0
+322,University 322,Maharashtra,Tier 1,Government,Electrical Engineering,9051,8.48,736770,93.95,144,78.96,15.99
+322,University 322,Delhi,Tier 3,Private,Mechanical Engineering,9498,8.74,1187766,92.13,191,22.68,14.64
+323,University 323,Maharashtra,Tier 3,Government,Computer Science,7747,7.72,1500362,86.77,158,52.25,10.74
+323,University 323,Maharashtra,Tier 1,Private,Electrical Engineering,9904,8.38,1035062,78.91,112,44.66,19.72
+323,University 323,Karnataka,Tier 3,Private,Mechanical Engineering,2909,6.28,922672,70.43,148,26.35,19.43
+324,University 324,Maharashtra,Tier 2,Private,Computer Science,7852,7.13,1898459,73.49,153,46.71,11.7
+324,University 324,Delhi,Tier 1,Government,Electrical Engineering,9655,6.17,1449167,85.64,124,32.57,12.18
+324,University 324,Karnataka,Tier 1,Private,Mechanical Engineering,1493,8.76,572028,73.83,166,23.8,19.05
+325,University 325,Tamil Nadu,Tier 2,Government,Computer Science,1207,8.34,432955,99.99,190,22.32,23.18
+325,University 325,Delhi,Tier 3,Private,Electrical Engineering,6724,6.45,1500182,71.0,177,56.25,24.04
+325,University 325,Delhi,Tier 3,Private,Mechanical Engineering,4186,6.91,1901794,96.23,62,74.89,15.28
+326,University 326,Maharashtra,Tier 1,Government,Computer Science,3409,6.95,465301,68.01,110,46.83,14.65
+326,University 326,Uttar Pradesh,Tier 1,Government,Electrical Engineering,4932,7.59,1149333,86.39,114,59.29,13.43
+326,University 326,Karnataka,Tier 3,Private,Mechanical Engineering,9104,9.36,500015,70.38,106,74.51,11.57
+327,University 327,Uttar Pradesh,Tier 2,Government,Computer Science,7364,9.47,1975255,82.74,199,65.39,13.86
+327,University 327,Tamil Nadu,Tier 2,Government,Electrical Engineering,5867,8.95,1949379,68.85,147,66.33,17.1
+327,University 327,Uttar Pradesh,Tier 1,Private,Mechanical Engineering,7857,6.87,451967,92.05,48,47.27,21.18
+328,University 328,Uttar Pradesh,Tier 1,Private,Computer Science,9252,8.72,1847334,92.24,127,58.53,13.68
+328,University 328,Delhi,Tier 1,Government,Electrical Engineering,9724,6.35,1954865,70.76,29,52.01,10.79
+328,University 328,Maharashtra,Tier 2,Private,Mechanical Engineering,1025,8.47,1600987,89.77,66,36.28,17.07
+329,University 329,Karnataka,Tier 3,Private,Computer Science,1760,6.39,1657368,98.41,31,59.15,21.61
+329,University 329,Tamil Nadu,Tier 2,Private,Electrical Engineering,5228,7.68,604603,94.4,87,35.43,24.23
+329,University 329,Tamil Nadu,Tier 1,Government,Mechanical Engineering,7071,6.05,1024410,69.52,35,46.95,18.56
+330,University 330,Uttar Pradesh,Tier 3,Private,Computer Science,6024,8.56,1714780,73.25,60,35.0,19.14
+330,University 330,Uttar Pradesh,Tier 3,Private,Electrical Engineering,2116,9.33,889306,65.67,28,64.33,23.39
+330,University 330,Karnataka,Tier 3,Government,Mechanical Engineering,4397,6.18,1891189,74.9,135,55.15,24.64
+331,University 331,Tamil Nadu,Tier 1,Government,Computer Science,2843,7.43,1102491,77.63,84,34.85,22.11
+331,University 331,Karnataka,Tier 2,Government,Electrical Engineering,7890,8.8,1918374,98.49,76,49.69,21.13
+331,University 331,Delhi,Tier 2,Private,Mechanical Engineering,3575,8.75,1488304,79.31,87,36.83,20.97
+332,University 332,Karnataka,Tier 3,Private,Computer Science,8989,7.85,655734,85.16,158,79.1,10.43
+332,University 332,Delhi,Tier 3,Private,Electrical Engineering,8032,9.04,1204498,80.81,21,53.67,17.13
+332,University 332,Karnataka,Tier 2,Government,Mechanical Engineering,1264,8.42,1759610,71.52,144,62.21,19.67
+333,University 333,Maharashtra,Tier 1,Private,Computer Science,5549,7.06,1034647,91.25,130,35.14,18.01
+333,University 333,Delhi,Tier 3,Private,Electrical Engineering,5677,7.41,673519,82.88,38,27.6,16.31
+333,University 333,Maharashtra,Tier 1,Government,Mechanical Engineering,2245,7.27,396950,92.23,81,46.17,12.92
+334,University 334,Karnataka,Tier 2,Private,Computer Science,8058,7.04,552856,71.53,27,31.88,12.01
+334,University 334,Maharashtra,Tier 3,Government,Electrical Engineering,3296,6.01,1095740,99.83,75,79.46,17.85
+334,University 334,Maharashtra,Tier 1,Government,Mechanical Engineering,3939,7.28,1779995,65.41,69,40.1,13.11
+335,University 335,Maharashtra,Tier 2,Private,Computer Science,3775,8.04,450943,83.09,30,61.02,10.04
+335,University 335,Maharashtra,Tier 2,Government,Electrical Engineering,6644,7.42,481593,70.2,20,23.51,14.58
+335,University 335,Uttar Pradesh,Tier 3,Private,Mechanical Engineering,9592,7.28,1023225,82.51,141,78.72,20.9
+336,University 336,Delhi,Tier 2,Government,Computer Science,2973,6.57,1074508,95.91,44,41.57,11.89
+336,University 336,Tamil Nadu,Tier 2,Private,Electrical Engineering,9910,7.1,1984038,91.88,112,26.66,16.64
+336,University 336,Delhi,Tier 3,Private,Mechanical Engineering,8236,6.36,1693749,66.11,100,39.68,19.91
+337,University 337,Uttar Pradesh,Tier 1,Private,Computer Science,6828,7.26,1699076,83.63,54,67.87,23.82
+337,University 337,Karnataka,Tier 2,Private,Electrical Engineering,6539,7.44,1806095,70.07,187,27.8,14.91
+337,University 337,Delhi,Tier 2,Government,Mechanical Engineering,5747,6.08,537778,60.56,186,56.29,17.2
+338,University 338,Maharashtra,Tier 3,Private,Computer Science,4705,6.38,1631142,65.35,112,51.24,21.13
+338,University 338,Tamil Nadu,Tier 3,Government,Electrical Engineering,3696,8.13,716673,73.42,28,21.51,20.84
+338,University 338,Uttar Pradesh,Tier 3,Government,Mechanical Engineering,4708,7.54,1930969,86.89,159,50.62,24.54
+339,University 339,Uttar Pradesh,Tier 1,Government,Computer Science,2787,8.95,380738,98.25,73,21.7,22.43
+339,University 339,Uttar Pradesh,Tier 1,Private,Electrical Engineering,6759,6.84,1097700,61.61,63,65.86,24.9
+339,University 339,Tamil Nadu,Tier 3,Government,Mechanical Engineering,3729,9.45,1622649,61.17,165,76.75,23.95
+340,University 340,Tamil Nadu,Tier 3,Government,Computer Science,5570,6.6,906782,79.8,145,40.47,18.15
+340,University 340,Delhi,Tier 2,Government,Electrical Engineering,5759,9.16,1577991,78.58,81,30.63,16.43
+340,University 340,Delhi,Tier 1,Private,Mechanical Engineering,5796,7.62,505383,66.8,36,47.76,21.78
+341,University 341,Tamil Nadu,Tier 1,Government,Computer Science,3511,7.64,1584468,95.19,131,68.67,10.49
+341,University 341,Uttar Pradesh,Tier 1,Private,Electrical Engineering,8283,8.98,562399,90.5,147,39.04,14.23
+341,University 341,Delhi,Tier 1,Private,Mechanical Engineering,9762,6.55,1129119,93.73,163,34.0,16.8
+342,University 342,Delhi,Tier 2,Private,Computer Science,9357,9.39,1064752,84.73,198,29.38,16.56
+342,University 342,Maharashtra,Tier 3,Private,Electrical Engineering,2265,7.36,1803785,71.09,171,54.53,16.35
+342,University 342,Uttar Pradesh,Tier 1,Government,Mechanical Engineering,6591,8.32,638608,70.32,111,60.25,20.55
+343,University 343,Delhi,Tier 1,Private,Computer Science,5274,9.35,745292,63.59,38,64.78,12.63
+343,University 343,Tamil Nadu,Tier 2,Private,Electrical Engineering,8063,8.83,1562916,79.96,189,71.0,22.69
+343,University 343,Delhi,Tier 2,Government,Mechanical Engineering,7708,6.23,814539,75.2,148,40.64,24.96
+344,University 344,Tamil Nadu,Tier 3,Government,Computer Science,5923,9.34,424926,91.02,126,65.64,12.25
+344,University 344,Delhi,Tier 2,Private,Electrical Engineering,1607,9.18,911781,65.21,187,27.01,24.79
+344,University 344,Maharashtra,Tier 1,Government,Mechanical Engineering,2973,8.06,637927,70.65,51,77.69,13.7
+345,University 345,Tamil Nadu,Tier 3,Government,Computer Science,4822,6.25,1354490,68.27,124,52.58,13.9
+345,University 345,Karnataka,Tier 2,Government,Electrical Engineering,6037,9.45,978063,64.7,99,36.71,23.45
+345,University 345,Maharashtra,Tier 3,Government,Mechanical Engineering,2480,9.19,1057262,85.71,182,70.6,13.06
+346,University 346,Delhi,Tier 3,Government,Computer Science,2758,8.66,1670614,85.55,72,46.21,17.8
+346,University 346,Tamil Nadu,Tier 2,Government,Electrical Engineering,3347,6.99,1332203,62.1,112,60.63,17.84
+346,University 346,Uttar Pradesh,Tier 1,Government,Mechanical Engineering,1540,6.01,1905708,64.42,43,75.93,20.81
+347,University 347,Karnataka,Tier 1,Government,Computer Science,8652,6.06,1035609,67.25,135,67.95,23.48
+347,University 347,Delhi,Tier 1,Private,Electrical Engineering,9448,9.42,932899,77.06,180,30.21,14.74
+347,University 347,Karnataka,Tier 3,Government,Mechanical Engineering,2118,6.98,565161,86.6,142,64.0,10.01
+348,University 348,Delhi,Tier 2,Private,Computer Science,4196,9.23,1529362,86.07,90,61.28,14.79
+348,University 348,Delhi,Tier 1,Government,Electrical Engineering,7993,6.92,434670,93.85,198,49.35,21.91
+348,University 348,Delhi,Tier 2,Government,Mechanical Engineering,7127,8.44,773050,91.25,178,57.31,24.53
+349,University 349,Delhi,Tier 3,Government,Computer Science,5650,8.76,1673368,66.09,111,28.18,23.31
+349,University 349,Karnataka,Tier 2,Private,Electrical Engineering,7852,6.45,755911,75.92,57,68.95,22.04
+349,University 349,Karnataka,Tier 1,Private,Mechanical Engineering,4823,9.2,1227724,74.3,68,44.79,16.08
+350,University 350,Karnataka,Tier 3,Private,Computer Science,7718,7.01,969142,93.13,72,45.16,24.48
+350,University 350,Maharashtra,Tier 3,Government,Electrical Engineering,4956,9.22,330916,72.58,99,46.64,12.62
+350,University 350,Uttar Pradesh,Tier 2,Government,Mechanical Engineering,7900,6.6,1449380,71.76,175,36.2,21.53
+351,University 351,Maharashtra,Tier 3,Government,Computer Science,6430,9.06,745544,91.9,34,60.24,22.71
+351,University 351,Tamil Nadu,Tier 2,Private,Electrical Engineering,6790,8.29,1881868,81.71,184,23.98,15.5
+351,University 351,Maharashtra,Tier 3,Government,Mechanical Engineering,6913,7.74,1878777,94.45,29,72.76,17.32
+352,University 352,Tamil Nadu,Tier 1,Private,Computer Science,1329,9.07,999438,73.17,148,54.3,23.54
+352,University 352,Karnataka,Tier 2,Government,Electrical Engineering,7644,6.36,1516571,67.2,22,70.91,10.31
+352,University 352,Uttar Pradesh,Tier 1,Government,Mechanical Engineering,7041,6.99,1297650,78.69,41,73.68,18.14
+353,University 353,Delhi,Tier 2,Government,Computer Science,2417,7.77,1965418,84.17,43,45.5,14.13
+353,University 353,Delhi,Tier 1,Government,Electrical Engineering,9289,7.07,1661606,83.54,159,59.07,21.52
+353,University 353,Uttar Pradesh,Tier 2,Private,Mechanical Engineering,2816,7.57,557471,95.88,163,77.2,17.28
+354,University 354,Tamil Nadu,Tier 2,Government,Computer Science,9378,9.15,658349,82.35,185,30.3,19.81
+354,University 354,Uttar Pradesh,Tier 2,Government,Electrical Engineering,2563,6.77,1299598,79.91,85,22.06,12.56
+354,University 354,Uttar Pradesh,Tier 3,Private,Mechanical Engineering,6604,9.17,1863916,92.33,158,72.9,15.92
+355,University 355,Uttar Pradesh,Tier 3,Private,Computer Science,8701,6.3,1561668,84.25,116,45.68,19.87
+355,University 355,Karnataka,Tier 2,Government,Electrical Engineering,2179,7.82,1548720,75.05,95,54.4,23.92
+355,University 355,Uttar Pradesh,Tier 2,Private,Mechanical Engineering,1107,7.77,1439391,80.13,126,63.41,22.09
+356,University 356,Karnataka,Tier 2,Private,Computer Science,1559,7.49,1888114,93.81,52,21.9,13.88
+356,University 356,Maharashtra,Tier 1,Private,Electrical Engineering,1916,8.45,763723,75.54,191,63.47,16.06
+356,University 356,Karnataka,Tier 2,Private,Mechanical Engineering,1906,6.62,1025191,92.26,39,43.15,24.73
+357,University 357,Karnataka,Tier 2,Government,Computer Science,5615,7.49,1341371,66.41,65,45.91,10.81
+357,University 357,Tamil Nadu,Tier 1,Private,Electrical Engineering,3808,6.35,1731041,89.92,97,69.93,15.42
+357,University 357,Tamil Nadu,Tier 2,Private,Mechanical Engineering,3456,7.46,1690502,60.78,40,68.36,13.8
+358,University 358,Karnataka,Tier 2,Government,Computer Science,7805,6.25,1279532,70.44,156,30.21,13.82
+358,University 358,Tamil Nadu,Tier 2,Private,Electrical Engineering,5799,9.32,1990420,73.57,24,33.84,21.59
+358,University 358,Karnataka,Tier 3,Private,Mechanical Engineering,2245,9.0,1447417,66.54,48,53.99,17.08
+359,University 359,Delhi,Tier 2,Government,Computer Science,5062,6.31,1210175,73.66,35,23.47,12.11
+359,University 359,Karnataka,Tier 2,Private,Electrical Engineering,4281,6.44,548924,90.57,191,35.5,17.21
+359,University 359,Uttar Pradesh,Tier 2,Private,Mechanical Engineering,8623,8.94,1574869,68.75,188,22.43,11.84
+360,University 360,Delhi,Tier 3,Private,Computer Science,1582,8.96,620589,84.81,52,62.56,18.79
+360,University 360,Karnataka,Tier 3,Private,Electrical Engineering,5335,7.2,1921980,85.09,89,27.63,11.09
+360,University 360,Uttar Pradesh,Tier 3,Private,Mechanical Engineering,7341,8.95,1462111,62.46,46,20.5,21.7
+361,University 361,Delhi,Tier 3,Private,Computer Science,6622,7.02,1481597,91.33,188,54.41,22.8
+361,University 361,Delhi,Tier 1,Private,Electrical Engineering,2919,6.44,1817060,97.32,37,79.53,19.79
+361,University 361,Uttar Pradesh,Tier 1,Government,Mechanical Engineering,6461,7.74,836208,87.59,191,46.45,24.92
+362,University 362,Delhi,Tier 3,Government,Computer Science,5840,7.59,1191641,93.42,65,56.94,10.19
+362,University 362,Delhi,Tier 3,Private,Electrical Engineering,9194,7.58,896822,85.5,96,33.46,11.48
+362,University 362,Tamil Nadu,Tier 2,Government,Mechanical Engineering,9906,6.33,1928462,74.94,160,69.04,24.0
+363,University 363,Maharashtra,Tier 1,Government,Computer Science,3063,7.25,1423045,62.44,162,43.96,12.77
+363,University 363,Uttar Pradesh,Tier 3,Government,Electrical Engineering,9759,7.73,1602376,62.08,180,24.51,24.15
+363,University 363,Maharashtra,Tier 2,Government,Mechanical Engineering,2786,6.07,1489297,84.27,142,72.31,20.31
+364,University 364,Karnataka,Tier 1,Private,Computer Science,9473,7.5,1997590,91.08,33,68.3,10.29
+364,University 364,Maharashtra,Tier 1,Government,Electrical Engineering,1479,8.11,814060,82.83,108,22.29,19.23
+364,University 364,Maharashtra,Tier 2,Government,Mechanical Engineering,9176,6.02,968301,66.57,42,41.41,11.62
+365,University 365,Delhi,Tier 3,Private,Computer Science,7021,8.34,601951,65.9,199,25.28,23.4
+365,University 365,Maharashtra,Tier 2,Private,Electrical Engineering,5558,9.38,1534744,94.54,41,68.61,13.99
+365,University 365,Tamil Nadu,Tier 2,Government,Mechanical Engineering,7227,6.97,851741,92.96,43,65.71,21.6
+366,University 366,Delhi,Tier 2,Private,Computer Science,1597,8.98,1625745,73.64,34,51.17,16.76
+366,University 366,Uttar Pradesh,Tier 1,Government,Electrical Engineering,3160,8.07,1405391,82.85,126,52.97,20.18
+366,University 366,Maharashtra,Tier 2,Private,Mechanical Engineering,4932,7.5,829896,87.75,96,58.63,14.99
+367,University 367,Tamil Nadu,Tier 1,Government,Computer Science,1375,8.23,1180650,84.48,31,61.79,15.64
+367,University 367,Karnataka,Tier 2,Government,Electrical Engineering,8074,6.88,747154,87.19,151,48.59,14.44
+367,University 367,Karnataka,Tier 1,Government,Mechanical Engineering,7764,9.42,361836,82.51,184,22.47,13.76
+368,University 368,Maharashtra,Tier 1,Government,Computer Science,4653,7.19,1922512,76.09,78,27.1,21.41
+368,University 368,Maharashtra,Tier 1,Government,Electrical Engineering,5364,6.32,1412762,84.67,113,22.33,19.88
+368,University 368,Tamil Nadu,Tier 3,Government,Mechanical Engineering,2499,7.7,1120178,80.71,76,50.46,22.12
+369,University 369,Delhi,Tier 3,Private,Computer Science,1947,8.49,857813,82.41,80,47.26,20.79
+369,University 369,Maharashtra,Tier 2,Government,Electrical Engineering,7539,6.74,1444543,65.53,168,78.56,13.85
+369,University 369,Karnataka,Tier 1,Government,Mechanical Engineering,8989,7.39,432957,77.29,45,51.0,22.29
+370,University 370,Tamil Nadu,Tier 2,Private,Computer Science,9653,9.49,851566,98.02,165,76.5,20.67
+370,University 370,Tamil Nadu,Tier 3,Government,Electrical Engineering,6172,8.84,873374,75.71,35,30.68,22.37
+370,University 370,Delhi,Tier 3,Government,Mechanical Engineering,5872,9.0,816304,90.07,184,26.41,19.9
+371,University 371,Uttar Pradesh,Tier 3,Government,Computer Science,6374,9.27,640822,89.83,192,39.85,21.32
+371,University 371,Uttar Pradesh,Tier 1,Government,Electrical Engineering,1376,7.4,1217947,69.04,40,42.73,10.52
+371,University 371,Delhi,Tier 2,Private,Mechanical Engineering,3711,9.06,1141172,94.88,76,25.17,24.05
+372,University 372,Karnataka,Tier 2,Private,Computer Science,1581,8.77,707650,64.99,170,28.13,14.37
+372,University 372,Maharashtra,Tier 1,Government,Electrical Engineering,6445,6.78,808524,70.62,197,51.67,18.1
+372,University 372,Tamil Nadu,Tier 1,Government,Mechanical Engineering,2839,7.97,1484043,99.44,155,53.04,13.76
+373,University 373,Delhi,Tier 2,Private,Computer Science,2392,9.08,1900448,95.72,30,44.95,19.02
+373,University 373,Karnataka,Tier 1,Government,Electrical Engineering,9621,6.94,1329293,83.47,190,59.66,14.84
+373,University 373,Delhi,Tier 3,Private,Mechanical Engineering,6479,7.42,859865,83.84,133,30.22,19.49
+374,University 374,Maharashtra,Tier 1,Government,Computer Science,9961,7.9,355152,67.41,181,28.09,17.44
+374,University 374,Delhi,Tier 3,Government,Electrical Engineering,8849,6.74,1948856,86.38,56,53.42,11.62
+374,University 374,Tamil Nadu,Tier 2,Private,Mechanical Engineering,6819,7.74,911369,94.16,126,40.91,11.98
+375,University 375,Karnataka,Tier 3,Private,Computer Science,2924,6.11,878621,63.04,39,31.99,13.48
+375,University 375,Tamil Nadu,Tier 1,Private,Electrical Engineering,7658,7.5,1030526,66.69,173,60.57,20.53
+375,University 375,Tamil Nadu,Tier 1,Government,Mechanical Engineering,5008,9.34,1347640,93.27,23,20.94,24.01
+376,University 376,Karnataka,Tier 1,Private,Computer Science,4723,7.88,1204367,87.14,93,76.74,16.64
+376,University 376,Tamil Nadu,Tier 1,Government,Electrical Engineering,9561,8.45,510005,91.68,88,53.29,21.94
+376,University 376,Tamil Nadu,Tier 3,Private,Mechanical Engineering,2482,7.15,1361399,78.06,89,70.79,11.91
+377,University 377,Uttar Pradesh,Tier 3,Private,Computer Science,9736,7.02,467605,78.06,190,44.16,23.35
+377,University 377,Karnataka,Tier 3,Government,Electrical Engineering,9600,7.67,405474,90.3,170,47.25,21.02
+377,University 377,Tamil Nadu,Tier 2,Private,Mechanical Engineering,8050,7.19,366202,87.6,133,61.73,20.48
+378,University 378,Karnataka,Tier 1,Private,Computer Science,1158,7.71,600141,70.74,33,38.46,10.64
+378,University 378,Karnataka,Tier 3,Government,Electrical Engineering,9302,7.06,1617294,92.29,109,34.53,12.54
+378,University 378,Maharashtra,Tier 2,Private,Mechanical Engineering,2756,7.77,1924322,73.23,139,68.64,10.67
+379,University 379,Tamil Nadu,Tier 1,Government,Computer Science,8487,7.11,1935377,72.39,88,65.5,13.37
+379,University 379,Delhi,Tier 1,Private,Electrical Engineering,3019,8.26,449776,60.95,89,73.6,17.7
+379,University 379,Delhi,Tier 2,Government,Mechanical Engineering,4081,8.94,834940,84.44,63,48.04,19.4
+380,University 380,Uttar Pradesh,Tier 1,Government,Computer Science,1465,8.01,435669,96.09,89,68.09,24.15
+380,University 380,Karnataka,Tier 1,Private,Electrical Engineering,9340,8.96,1515047,62.56,115,65.94,17.4
+380,University 380,Maharashtra,Tier 3,Government,Mechanical Engineering,5675,6.93,1383685,88.51,20,42.07,18.33
+381,University 381,Delhi,Tier 3,Private,Computer Science,6950,7.29,715162,74.23,71,32.58,23.27
+381,University 381,Uttar Pradesh,Tier 1,Private,Electrical Engineering,7018,6.64,1666991,90.2,26,30.7,23.57
+381,University 381,Maharashtra,Tier 3,Government,Mechanical Engineering,1184,7.29,1815359,66.97,89,38.64,16.91
+382,University 382,Karnataka,Tier 1,Government,Computer Science,9792,7.65,715874,62.33,190,56.25,23.2
+382,University 382,Maharashtra,Tier 1,Private,Electrical Engineering,1143,7.42,1440170,73.91,146,69.33,14.43
+382,University 382,Delhi,Tier 2,Government,Mechanical Engineering,9890,6.57,1769191,89.4,61,51.2,22.45
+383,University 383,Delhi,Tier 3,Private,Computer Science,3926,8.83,1105428,91.65,115,46.59,19.49
+383,University 383,Uttar Pradesh,Tier 3,Private,Electrical Engineering,3567,7.73,996203,87.81,129,75.36,10.85
+383,University 383,Maharashtra,Tier 3,Government,Mechanical Engineering,6768,8.02,1946278,81.39,26,74.75,13.99
+384,University 384,Uttar Pradesh,Tier 2,Government,Computer Science,8380,9.32,652868,88.79,110,58.03,14.3
+384,University 384,Tamil Nadu,Tier 2,Government,Electrical Engineering,4587,7.71,767119,75.83,22,37.64,18.4
+384,University 384,Maharashtra,Tier 3,Private,Mechanical Engineering,3517,6.34,1250128,81.39,72,55.8,11.3
+385,University 385,Maharashtra,Tier 1,Government,Computer Science,4049,7.07,674319,62.83,22,66.21,12.12
+385,University 385,Delhi,Tier 3,Government,Electrical Engineering,7412,9.32,1719220,99.94,175,53.52,10.89
+385,University 385,Delhi,Tier 2,Private,Mechanical Engineering,4046,7.24,437912,71.63,131,37.78,20.88
+386,University 386,Karnataka,Tier 2,Private,Computer Science,1815,7.6,602085,64.18,97,24.17,24.58
+386,University 386,Delhi,Tier 3,Private,Electrical Engineering,7324,6.53,1146200,77.94,187,36.98,16.57
+386,University 386,Karnataka,Tier 1,Private,Mechanical Engineering,8433,7.33,1064948,72.2,52,40.5,20.26
+387,University 387,Delhi,Tier 1,Private,Computer Science,6443,7.6,1936336,98.19,134,63.29,14.24
+387,University 387,Delhi,Tier 3,Private,Electrical Engineering,4605,8.54,1993487,95.36,126,68.91,24.68
+387,University 387,Tamil Nadu,Tier 1,Government,Mechanical Engineering,2361,6.37,716706,71.65,29,20.47,21.29
+388,University 388,Maharashtra,Tier 2,Government,Computer Science,6415,8.23,1010419,61.74,88,30.16,22.48
+388,University 388,Delhi,Tier 1,Government,Electrical Engineering,6989,7.5,1886293,68.59,101,77.03,24.71
+388,University 388,Maharashtra,Tier 1,Private,Mechanical Engineering,9078,6.31,782737,61.58,120,23.7,24.38
+389,University 389,Uttar Pradesh,Tier 3,Government,Computer Science,3256,6.77,1557043,78.78,67,36.57,13.26
+389,University 389,Karnataka,Tier 2,Government,Electrical Engineering,2451,9.38,1187743,86.87,72,41.8,16.97
+389,University 389,Karnataka,Tier 2,Government,Mechanical Engineering,1824,9.32,942006,98.56,199,41.79,22.67
+390,University 390,Maharashtra,Tier 3,Government,Computer Science,1328,8.35,719814,62.85,183,40.76,15.22
+390,University 390,Karnataka,Tier 2,Private,Electrical Engineering,9379,6.38,819382,76.66,125,69.61,11.47
+390,University 390,Maharashtra,Tier 3,Government,Mechanical Engineering,6265,7.08,1409057,69.94,116,26.42,17.57
+391,University 391,Delhi,Tier 2,Government,Computer Science,5409,8.91,326119,83.29,31,52.04,15.69
+391,University 391,Karnataka,Tier 2,Government,Electrical Engineering,7553,9.12,652935,79.58,34,44.13,11.54
+391,University 391,Uttar Pradesh,Tier 1,Government,Mechanical Engineering,9875,7.33,1690229,88.52,194,64.57,10.76
+392,University 392,Uttar Pradesh,Tier 2,Government,Computer Science,4535,7.92,480394,65.36,37,45.27,11.03
+392,University 392,Tamil Nadu,Tier 2,Private,Electrical Engineering,3837,8.69,878668,80.41,187,33.48,20.9
+392,University 392,Delhi,Tier 3,Private,Mechanical Engineering,7804,7.2,1187159,67.49,95,21.15,21.59
+393,University 393,Delhi,Tier 2,Private,Computer Science,4132,7.25,1124142,92.55,70,34.63,12.29
+393,University 393,Maharashtra,Tier 1,Private,Electrical Engineering,4446,6.37,1444000,94.01,120,61.27,24.08
+393,University 393,Maharashtra,Tier 3,Private,Mechanical Engineering,3653,6.25,338575,96.71,150,53.76,22.04
+394,University 394,Maharashtra,Tier 3,Private,Computer Science,6095,6.55,479300,87.53,85,59.89,14.29
+394,University 394,Tamil Nadu,Tier 1,Government,Electrical Engineering,2740,8.11,1682311,60.87,43,31.59,20.02
+394,University 394,Uttar Pradesh,Tier 3,Private,Mechanical Engineering,2217,8.35,1026903,93.32,48,55.39,13.01
+395,University 395,Maharashtra,Tier 2,Private,Computer Science,9142,7.82,1110713,74.94,58,58.5,22.26
+395,University 395,Delhi,Tier 1,Private,Electrical Engineering,2059,6.92,1118408,84.01,189,22.85,13.29
+395,University 395,Karnataka,Tier 2,Government,Mechanical Engineering,5549,8.44,1403180,85.98,40,45.5,12.11
+396,University 396,Karnataka,Tier 2,Government,Computer Science,6190,7.67,401982,80.33,100,24.48,23.72
+396,University 396,Karnataka,Tier 1,Government,Electrical Engineering,9153,7.62,610495,71.92,150,20.6,14.12
+396,University 396,Tamil Nadu,Tier 2,Government,Mechanical Engineering,2420,7.12,684333,77.08,22,74.01,17.84
+397,University 397,Tamil Nadu,Tier 3,Government,Computer Science,1494,8.73,991572,80.25,139,68.0,15.19
+397,University 397,Karnataka,Tier 1,Private,Electrical Engineering,3057,7.75,1498061,67.52,156,58.86,16.33
+397,University 397,Uttar Pradesh,Tier 1,Private,Mechanical Engineering,6125,6.75,1916419,62.94,44,63.11,21.55
+398,University 398,Delhi,Tier 2,Private,Computer Science,1772,6.91,1669796,98.65,107,53.28,18.63
+398,University 398,Karnataka,Tier 3,Government,Electrical Engineering,1747,7.1,1698500,89.85,37,63.6,17.65
+398,University 398,Maharashtra,Tier 3,Government,Mechanical Engineering,5221,8.69,1952261,61.32,191,51.06,22.48
+399,University 399,Uttar Pradesh,Tier 2,Private,Computer Science,5606,8.25,1825608,97.31,184,58.85,15.12
+399,University 399,Uttar Pradesh,Tier 3,Private,Electrical Engineering,4275,6.87,583453,99.67,35,58.4,24.09
+399,University 399,Tamil Nadu,Tier 3,Government,Mechanical Engineering,8720,8.56,1163498,92.82,153,65.33,14.01
+400,University 400,Uttar Pradesh,Tier 1,Government,Computer Science,3337,6.61,990807,91.75,178,50.86,13.85
+400,University 400,Karnataka,Tier 1,Private,Electrical Engineering,7571,6.14,343923,97.52,111,25.73,19.88
+400,University 400,Delhi,Tier 3,Private,Mechanical Engineering,7792,8.67,745919,60.6,64,49.29,20.68
+401,University 401,Karnataka,Tier 1,Private,Computer Science,8928,7.15,687554,97.21,97,66.57,24.57
+401,University 401,Uttar Pradesh,Tier 2,Government,Electrical Engineering,1195,7.5,839618,89.55,160,79.18,18.0
+401,University 401,Karnataka,Tier 2,Private,Mechanical Engineering,2562,7.03,1860740,87.87,172,47.62,15.47
+402,University 402,Karnataka,Tier 3,Private,Computer Science,1348,8.63,1564509,79.02,166,78.8,23.23
+402,University 402,Uttar Pradesh,Tier 1,Private,Electrical Engineering,8041,7.43,1988678,88.75,24,79.73,11.78
+402,University 402,Delhi,Tier 1,Private,Mechanical Engineering,2526,7.25,1078559,92.44,70,67.24,16.13
+403,University 403,Uttar Pradesh,Tier 1,Government,Computer Science,7219,8.76,1438036,93.92,147,57.38,10.1
+403,University 403,Karnataka,Tier 3,Government,Electrical Engineering,7997,7.85,566891,82.96,66,76.98,23.04
+403,University 403,Uttar Pradesh,Tier 3,Government,Mechanical Engineering,8798,6.54,1513944,80.86,25,68.36,20.39
+404,University 404,Maharashtra,Tier 1,Private,Computer Science,8716,6.69,958764,71.53,126,37.16,17.75
+404,University 404,Tamil Nadu,Tier 2,Private,Electrical Engineering,5053,8.1,567724,79.85,52,64.06,18.62
+404,University 404,Uttar Pradesh,Tier 2,Government,Mechanical Engineering,3372,6.76,1437330,86.94,50,68.23,12.76
+405,University 405,Delhi,Tier 2,Private,Computer Science,5506,8.52,791599,91.76,96,63.07,20.2
+405,University 405,Karnataka,Tier 1,Government,Electrical Engineering,7652,6.08,1806610,76.45,141,75.04,15.87
+405,University 405,Uttar Pradesh,Tier 1,Private,Mechanical Engineering,6491,6.59,944691,74.8,42,74.49,11.45
+406,University 406,Tamil Nadu,Tier 2,Government,Computer Science,3745,9.28,656459,68.48,34,46.04,14.17
+406,University 406,Delhi,Tier 1,Private,Electrical Engineering,8008,8.15,1040537,69.37,35,46.7,24.99
+406,University 406,Maharashtra,Tier 3,Private,Mechanical Engineering,6280,6.36,1137329,60.12,49,57.19,11.24
+407,University 407,Delhi,Tier 2,Government,Computer Science,2884,6.28,764151,86.45,167,35.21,14.96
+407,University 407,Uttar Pradesh,Tier 2,Private,Electrical Engineering,9440,7.79,1804665,81.21,45,35.08,12.49
+407,University 407,Karnataka,Tier 3,Private,Mechanical Engineering,5297,8.65,1211656,69.36,101,54.24,17.26
+408,University 408,Uttar Pradesh,Tier 2,Private,Computer Science,4700,8.5,1387462,67.1,193,28.15,11.0
+408,University 408,Tamil Nadu,Tier 3,Private,Electrical Engineering,3062,6.21,1942148,93.72,117,49.12,22.45
+408,University 408,Tamil Nadu,Tier 3,Private,Mechanical Engineering,5789,9.18,1516658,84.33,182,39.49,14.4
+409,University 409,Maharashtra,Tier 3,Private,Computer Science,8824,7.65,1926140,96.24,36,71.46,23.46
+409,University 409,Uttar Pradesh,Tier 1,Government,Electrical Engineering,1871,8.4,1986051,67.2,33,65.07,24.0
+409,University 409,Maharashtra,Tier 2,Government,Mechanical Engineering,8723,6.19,1477144,95.44,151,55.87,17.35
+410,University 410,Uttar Pradesh,Tier 3,Government,Computer Science,9759,6.84,1250292,98.64,157,30.62,10.43
+410,University 410,Karnataka,Tier 3,Private,Electrical Engineering,6882,6.53,816456,71.16,169,36.21,17.57
+410,University 410,Tamil Nadu,Tier 2,Government,Mechanical Engineering,9772,7.02,1208573,94.67,57,75.32,12.11
+411,University 411,Tamil Nadu,Tier 2,Private,Computer Science,2886,8.67,1204890,64.66,144,20.06,21.36
+411,University 411,Karnataka,Tier 1,Private,Electrical Engineering,8244,7.61,1071812,80.48,183,48.63,16.71
+411,University 411,Uttar Pradesh,Tier 3,Government,Mechanical Engineering,4460,6.9,942811,64.86,69,33.8,12.22
+412,University 412,Delhi,Tier 2,Private,Computer Science,2043,7.76,349966,92.74,192,68.44,19.53
+412,University 412,Karnataka,Tier 2,Government,Electrical Engineering,3486,7.83,1229441,77.69,150,35.55,23.63
+412,University 412,Maharashtra,Tier 3,Private,Mechanical Engineering,5237,7.46,1623909,88.65,37,23.79,11.62
+413,University 413,Karnataka,Tier 1,Government,Computer Science,3925,9.38,1353886,83.56,36,38.16,14.03
+413,University 413,Uttar Pradesh,Tier 3,Private,Electrical Engineering,4980,7.43,1792669,88.12,105,40.47,18.12
+413,University 413,Tamil Nadu,Tier 3,Private,Mechanical Engineering,1557,6.92,746098,71.39,34,49.53,11.41
+414,University 414,Maharashtra,Tier 2,Private,Computer Science,9645,9.21,793844,90.17,46,79.42,20.25
+414,University 414,Tamil Nadu,Tier 3,Government,Electrical Engineering,5620,6.51,743853,60.62,47,46.09,13.01
+414,University 414,Maharashtra,Tier 3,Private,Mechanical Engineering,2507,7.7,1232280,64.77,103,60.72,10.98
+415,University 415,Uttar Pradesh,Tier 1,Private,Computer Science,5231,9.24,862347,74.81,39,66.79,21.76
+415,University 415,Tamil Nadu,Tier 1,Private,Electrical Engineering,7851,7.68,1096966,69.61,57,49.68,17.35
+415,University 415,Karnataka,Tier 1,Private,Mechanical Engineering,9955,7.28,749058,96.06,118,53.21,19.24
+416,University 416,Karnataka,Tier 3,Private,Computer Science,8957,9.2,834398,86.98,98,40.67,17.47
+416,University 416,Maharashtra,Tier 2,Private,Electrical Engineering,7088,7.8,1293477,76.98,198,23.89,21.44
+416,University 416,Uttar Pradesh,Tier 3,Private,Mechanical Engineering,2829,8.55,804434,76.44,127,35.03,23.37
+417,University 417,Karnataka,Tier 3,Government,Computer Science,3094,9.06,945214,76.91,32,57.82,14.52
+417,University 417,Karnataka,Tier 2,Private,Electrical Engineering,3035,6.79,649738,89.75,104,60.03,13.67
+417,University 417,Uttar Pradesh,Tier 3,Government,Mechanical Engineering,2395,8.98,980047,66.39,188,63.37,19.67
+418,University 418,Delhi,Tier 1,Private,Computer Science,2942,8.98,1435918,64.75,85,73.45,24.65
+418,University 418,Delhi,Tier 2,Government,Electrical Engineering,3788,6.58,1598972,63.65,42,36.98,13.57
+418,University 418,Delhi,Tier 1,Private,Mechanical Engineering,4925,8.21,1694689,88.27,197,31.62,13.93
+419,University 419,Karnataka,Tier 1,Government,Computer Science,7266,7.58,529164,63.35,165,45.14,10.25
+419,University 419,Karnataka,Tier 2,Government,Electrical Engineering,7110,7.66,1606147,89.05,172,78.02,12.4
+419,University 419,Delhi,Tier 3,Government,Mechanical Engineering,1895,9.26,1071668,70.12,63,44.17,24.03
+420,University 420,Uttar Pradesh,Tier 3,Private,Computer Science,2301,6.64,1029846,63.36,119,38.25,17.72
+420,University 420,Delhi,Tier 1,Government,Electrical Engineering,8493,6.31,1450187,78.84,124,23.24,15.4
+420,University 420,Karnataka,Tier 3,Private,Mechanical Engineering,5537,6.31,1828474,61.65,135,22.91,19.06
+421,University 421,Karnataka,Tier 2,Private,Computer Science,9014,7.6,1555449,93.16,96,79.49,20.7
+421,University 421,Karnataka,Tier 2,Private,Electrical Engineering,3646,7.83,1949285,95.32,31,41.24,22.31
+421,University 421,Karnataka,Tier 1,Private,Mechanical Engineering,1219,6.16,1170670,96.45,43,36.76,15.52
+422,University 422,Uttar Pradesh,Tier 2,Government,Computer Science,9702,8.26,1996235,99.06,28,74.76,12.89
+422,University 422,Delhi,Tier 3,Private,Electrical Engineering,7176,6.67,761365,92.02,97,45.35,21.8
+422,University 422,Karnataka,Tier 3,Private,Mechanical Engineering,7489,8.84,893358,82.03,165,62.72,18.7
+423,University 423,Uttar Pradesh,Tier 3,Government,Computer Science,9046,9.21,1290221,76.68,103,37.21,16.04
+423,University 423,Uttar Pradesh,Tier 2,Government,Electrical Engineering,1568,8.47,1558303,99.0,35,49.29,23.91
+423,University 423,Uttar Pradesh,Tier 1,Government,Mechanical Engineering,6069,8.87,655970,84.91,137,42.62,11.51
+424,University 424,Karnataka,Tier 3,Private,Computer Science,5215,6.2,737538,94.71,180,39.82,16.72
+424,University 424,Karnataka,Tier 2,Private,Electrical Engineering,6413,8.83,1499195,98.82,25,50.19,16.97
+424,University 424,Tamil Nadu,Tier 3,Government,Mechanical Engineering,1098,6.62,1906812,69.72,134,66.61,21.83
+425,University 425,Uttar Pradesh,Tier 2,Government,Computer Science,5778,9.13,1610114,93.01,104,78.54,23.02
+425,University 425,Delhi,Tier 3,Government,Electrical Engineering,7004,8.26,1360331,62.05,93,39.98,16.0
+425,University 425,Maharashtra,Tier 2,Private,Mechanical Engineering,5599,7.4,1679233,75.82,42,54.07,10.63
+426,University 426,Maharashtra,Tier 3,Government,Computer Science,4603,9.33,972960,71.55,43,31.61,18.31
+426,University 426,Karnataka,Tier 2,Government,Electrical Engineering,7862,8.25,1011045,67.5,57,48.79,21.19
+426,University 426,Delhi,Tier 1,Private,Mechanical Engineering,5595,8.61,1343302,64.14,24,37.8,23.34
+427,University 427,Maharashtra,Tier 2,Government,Computer Science,8836,9.18,565591,71.49,186,45.98,12.16
+427,University 427,Delhi,Tier 2,Private,Electrical Engineering,2285,9.4,534631,70.61,174,56.81,24.18
+427,University 427,Maharashtra,Tier 2,Private,Mechanical Engineering,2547,9.33,336972,95.22,29,68.87,16.89
+428,University 428,Delhi,Tier 2,Government,Computer Science,4052,7.83,1051564,78.44,120,78.44,23.67
+428,University 428,Tamil Nadu,Tier 3,Private,Electrical Engineering,1743,7.26,970534,62.08,69,57.39,22.61
+428,University 428,Maharashtra,Tier 3,Private,Mechanical Engineering,7962,7.62,1116473,71.79,175,49.92,24.38
+429,University 429,Maharashtra,Tier 3,Government,Computer Science,1434,6.88,932822,69.79,113,56.39,11.56
+429,University 429,Uttar Pradesh,Tier 2,Government,Electrical Engineering,3713,6.49,1109010,60.36,163,28.26,19.18
+429,University 429,Uttar Pradesh,Tier 2,Government,Mechanical Engineering,4221,7.04,1062301,61.49,73,64.35,14.77
+430,University 430,Karnataka,Tier 1,Private,Computer Science,2590,8.24,1601566,70.94,74,68.48,12.51
+430,University 430,Delhi,Tier 1,Government,Electrical Engineering,4238,7.16,436772,84.81,175,33.43,24.12
+430,University 430,Tamil Nadu,Tier 2,Private,Mechanical Engineering,6322,6.44,667057,94.59,31,62.84,23.01
+431,University 431,Delhi,Tier 2,Private,Computer Science,6774,7.39,890620,83.87,40,39.84,11.35
+431,University 431,Maharashtra,Tier 3,Government,Electrical Engineering,6285,8.89,317903,89.52,148,39.24,19.88
+431,University 431,Delhi,Tier 3,Government,Mechanical Engineering,2781,6.74,933654,77.42,135,48.08,11.91
+432,University 432,Tamil Nadu,Tier 3,Private,Computer Science,8670,6.37,1937153,60.8,115,40.07,10.13
+432,University 432,Uttar Pradesh,Tier 3,Private,Electrical Engineering,1981,6.16,450408,80.99,98,43.51,14.65
+432,University 432,Uttar Pradesh,Tier 2,Private,Mechanical Engineering,4322,7.04,1424487,69.0,75,74.06,24.65
+433,University 433,Karnataka,Tier 2,Private,Computer Science,5638,7.43,637990,95.78,149,53.23,17.95
+433,University 433,Uttar Pradesh,Tier 1,Government,Electrical Engineering,5962,8.81,1874630,79.27,87,57.55,16.14
+433,University 433,Maharashtra,Tier 1,Private,Mechanical Engineering,8180,8.45,1917627,67.35,119,25.46,17.11
+434,University 434,Delhi,Tier 2,Private,Computer Science,4976,8.31,829740,73.01,51,32.46,19.73
+434,University 434,Delhi,Tier 3,Government,Electrical Engineering,4090,6.49,858692,83.76,111,50.68,23.94
+434,University 434,Karnataka,Tier 2,Government,Mechanical Engineering,6538,7.25,1229958,64.39,34,43.81,14.55
+435,University 435,Karnataka,Tier 2,Private,Computer Science,3478,8.6,971844,72.17,21,41.84,24.39
+435,University 435,Maharashtra,Tier 2,Government,Electrical Engineering,6406,8.63,696608,76.78,20,48.51,24.18
+435,University 435,Karnataka,Tier 2,Private,Mechanical Engineering,9981,9.12,407154,78.35,78,60.76,24.05
+436,University 436,Tamil Nadu,Tier 2,Government,Computer Science,3296,7.99,473412,84.0,71,52.46,14.12
+436,University 436,Delhi,Tier 2,Private,Electrical Engineering,2369,8.5,1432560,95.28,21,62.73,16.34
+436,University 436,Uttar Pradesh,Tier 2,Government,Mechanical Engineering,9789,6.35,1141967,70.26,112,24.41,13.34
+437,University 437,Karnataka,Tier 3,Government,Computer Science,2107,7.99,425223,71.41,44,20.89,15.29
+437,University 437,Maharashtra,Tier 1,Private,Electrical Engineering,9967,6.25,1792625,72.34,79,63.52,11.03
+437,University 437,Uttar Pradesh,Tier 3,Private,Mechanical Engineering,9806,9.07,997143,98.71,74,63.64,15.56
+438,University 438,Uttar Pradesh,Tier 2,Government,Computer Science,2792,6.92,575261,63.85,88,69.97,14.89
+438,University 438,Tamil Nadu,Tier 1,Private,Electrical Engineering,2511,8.31,1764294,71.49,133,65.72,24.59
+438,University 438,Maharashtra,Tier 3,Government,Mechanical Engineering,4871,9.32,866464,63.79,39,73.27,20.41
+439,University 439,Uttar Pradesh,Tier 1,Private,Computer Science,1922,7.6,1518174,99.24,90,41.85,22.79
+439,University 439,Karnataka,Tier 3,Government,Electrical Engineering,8000,9.0,986860,91.05,158,28.71,17.38
+439,University 439,Delhi,Tier 2,Government,Mechanical Engineering,3387,6.16,1028927,81.07,123,54.78,23.16
+440,University 440,Maharashtra,Tier 1,Government,Computer Science,5297,7.95,1172911,66.16,49,21.84,14.25
+440,University 440,Tamil Nadu,Tier 1,Government,Electrical Engineering,5308,7.43,316575,69.07,166,35.63,19.69
+440,University 440,Delhi,Tier 1,Private,Mechanical Engineering,6761,8.09,1563352,79.83,152,46.02,13.03
+441,University 441,Delhi,Tier 1,Private,Computer Science,3093,9.36,1633660,96.68,172,60.16,19.49
+441,University 441,Maharashtra,Tier 3,Government,Electrical Engineering,8061,7.78,923944,73.56,88,62.44,20.07
+441,University 441,Uttar Pradesh,Tier 1,Private,Mechanical Engineering,9509,6.88,315675,90.55,132,58.69,16.16
+442,University 442,Tamil Nadu,Tier 2,Government,Computer Science,1678,8.3,1403371,66.64,99,66.58,18.94
+442,University 442,Delhi,Tier 3,Private,Electrical Engineering,9472,6.41,1166069,70.18,115,73.38,20.5
+442,University 442,Karnataka,Tier 2,Private,Mechanical Engineering,3563,6.19,504739,64.27,156,61.85,17.59
+443,University 443,Karnataka,Tier 1,Government,Computer Science,2140,9.39,475508,62.39,56,35.33,17.6
+443,University 443,Maharashtra,Tier 3,Government,Electrical Engineering,2421,7.39,939411,61.54,123,48.28,23.03
+443,University 443,Tamil Nadu,Tier 1,Private,Mechanical Engineering,3261,8.99,355046,87.08,149,78.75,20.68
+444,University 444,Delhi,Tier 1,Private,Computer Science,1388,6.37,631012,71.22,24,62.52,12.02
+444,University 444,Tamil Nadu,Tier 2,Private,Electrical Engineering,8696,6.41,584599,80.26,165,65.21,17.88
+444,University 444,Uttar Pradesh,Tier 2,Private,Mechanical Engineering,6327,9.5,434278,71.24,29,64.38,13.71
+445,University 445,Delhi,Tier 3,Private,Computer Science,7642,7.53,1057730,75.49,167,50.82,20.42
+445,University 445,Tamil Nadu,Tier 1,Private,Electrical Engineering,4577,8.99,726141,87.63,198,41.65,19.18
+445,University 445,Maharashtra,Tier 1,Government,Mechanical Engineering,3377,6.76,1435686,72.5,98,55.33,21.85
+446,University 446,Karnataka,Tier 2,Private,Computer Science,4076,6.56,835382,76.58,120,29.22,12.7
+446,University 446,Delhi,Tier 2,Private,Electrical Engineering,5039,7.03,328669,94.36,191,52.14,10.9
+446,University 446,Karnataka,Tier 2,Private,Mechanical Engineering,6902,8.51,1113725,87.14,50,21.52,21.25
+447,University 447,Maharashtra,Tier 2,Government,Computer Science,7373,6.81,821315,94.54,74,37.8,18.77
+447,University 447,Delhi,Tier 3,Private,Electrical Engineering,4177,7.68,441868,84.89,129,39.43,24.49
+447,University 447,Tamil Nadu,Tier 1,Private,Mechanical Engineering,8874,8.89,666074,97.16,162,78.9,15.25
+448,University 448,Karnataka,Tier 1,Private,Computer Science,9283,6.11,430514,94.35,61,53.42,22.79
+448,University 448,Uttar Pradesh,Tier 1,Government,Electrical Engineering,8443,9.14,1919530,95.66,51,28.97,18.65
+448,University 448,Karnataka,Tier 2,Private,Mechanical Engineering,4830,7.36,452018,66.35,183,64.41,16.72
+449,University 449,Tamil Nadu,Tier 2,Private,Computer Science,6539,8.42,1989224,82.44,95,41.41,14.5
+449,University 449,Karnataka,Tier 3,Government,Electrical Engineering,5722,8.15,721128,67.0,124,70.14,21.33
+449,University 449,Tamil Nadu,Tier 3,Government,Mechanical Engineering,8250,9.12,1221594,81.32,111,52.79,17.59
+450,University 450,Tamil Nadu,Tier 3,Private,Computer Science,2110,9.07,1480034,99.75,126,50.76,20.14
+450,University 450,Uttar Pradesh,Tier 1,Government,Electrical Engineering,9678,9.06,1372374,80.87,48,75.88,15.97
+450,University 450,Uttar Pradesh,Tier 3,Government,Mechanical Engineering,7787,9.17,720091,88.25,72,53.99,12.24
+451,University 451,Maharashtra,Tier 1,Private,Computer Science,8814,6.05,432672,60.1,128,45.08,11.28
+451,University 451,Delhi,Tier 2,Private,Electrical Engineering,7106,9.39,1707539,70.37,139,76.54,16.92
+451,University 451,Maharashtra,Tier 1,Government,Mechanical Engineering,4957,7.42,1735911,90.7,192,28.0,19.82
+452,University 452,Uttar Pradesh,Tier 3,Private,Computer Science,2865,7.57,872310,70.1,53,63.06,21.32
+452,University 452,Maharashtra,Tier 2,Government,Electrical Engineering,4342,6.12,1434321,68.86,72,40.08,17.64
+452,University 452,Tamil Nadu,Tier 1,Private,Mechanical Engineering,2300,9.19,724018,98.54,33,67.71,10.2
+453,University 453,Tamil Nadu,Tier 1,Government,Computer Science,6964,8.87,521163,66.24,193,50.38,15.71
+453,University 453,Karnataka,Tier 1,Private,Electrical Engineering,4330,7.96,1136507,90.76,154,67.67,10.6
+453,University 453,Tamil Nadu,Tier 3,Government,Mechanical Engineering,5055,8.45,717799,60.44,198,79.36,14.09
+454,University 454,Karnataka,Tier 2,Government,Computer Science,6637,7.12,1228412,91.57,150,21.45,23.47
+454,University 454,Tamil Nadu,Tier 2,Government,Electrical Engineering,9163,9.34,666731,82.78,32,68.94,16.05
+454,University 454,Delhi,Tier 1,Private,Mechanical Engineering,9046,7.29,1401332,85.37,40,73.33,19.62
+455,University 455,Maharashtra,Tier 1,Private,Computer Science,7841,7.78,1847840,91.03,75,64.55,24.23
+455,University 455,Karnataka,Tier 1,Private,Electrical Engineering,4550,8.31,1520447,99.44,89,76.52,13.24
+455,University 455,Delhi,Tier 3,Private,Mechanical Engineering,9737,6.56,592338,94.5,154,68.74,12.43
+456,University 456,Tamil Nadu,Tier 3,Private,Computer Science,6906,8.91,1457326,67.14,176,22.86,24.39
+456,University 456,Karnataka,Tier 3,Government,Electrical Engineering,7827,6.04,1438773,83.21,100,32.52,17.29
+456,University 456,Uttar Pradesh,Tier 3,Government,Mechanical Engineering,1343,6.74,1856299,87.74,61,53.27,19.0
+457,University 457,Delhi,Tier 1,Government,Computer Science,2438,9.17,1030548,82.76,109,60.28,24.85
+457,University 457,Uttar Pradesh,Tier 2,Government,Electrical Engineering,3493,6.54,1174799,62.52,155,27.69,13.98
+457,University 457,Karnataka,Tier 1,Government,Mechanical Engineering,2284,7.71,1255054,80.5,175,43.38,19.1
+458,University 458,Uttar Pradesh,Tier 2,Government,Computer Science,4781,8.72,1603512,64.8,175,43.03,12.12
+458,University 458,Karnataka,Tier 2,Private,Electrical Engineering,1703,8.93,1193850,62.28,195,60.08,16.44
+458,University 458,Tamil Nadu,Tier 1,Government,Mechanical Engineering,1305,6.36,889573,87.86,74,45.42,20.54
+459,University 459,Tamil Nadu,Tier 2,Government,Computer Science,3670,7.38,474682,84.39,48,57.66,12.8
+459,University 459,Delhi,Tier 3,Private,Electrical Engineering,8434,7.9,559711,71.18,86,50.12,18.82
+459,University 459,Tamil Nadu,Tier 3,Government,Mechanical Engineering,1252,7.11,1816148,74.05,65,71.13,18.31
+460,University 460,Maharashtra,Tier 1,Government,Computer Science,3807,6.0,1442142,98.1,20,41.96,22.44
+460,University 460,Delhi,Tier 2,Government,Electrical Engineering,3567,7.06,337355,73.53,177,63.6,23.42
+460,University 460,Tamil Nadu,Tier 1,Private,Mechanical Engineering,4613,7.87,1662956,63.6,191,59.86,13.69
+461,University 461,Tamil Nadu,Tier 1,Government,Computer Science,5029,6.24,1982545,69.81,39,73.56,19.51
+461,University 461,Uttar Pradesh,Tier 2,Government,Electrical Engineering,5145,7.54,683829,69.02,72,39.08,18.31
+461,University 461,Tamil Nadu,Tier 2,Government,Mechanical Engineering,2790,7.6,302928,72.35,73,32.84,16.49
+462,University 462,Karnataka,Tier 2,Private,Computer Science,6311,6.99,1111608,98.17,155,79.26,17.1
+462,University 462,Delhi,Tier 2,Government,Electrical Engineering,6154,8.11,1891182,65.23,110,76.83,19.04
+462,University 462,Uttar Pradesh,Tier 3,Government,Mechanical Engineering,1703,6.16,1864904,88.27,78,26.88,22.55
+463,University 463,Tamil Nadu,Tier 1,Private,Computer Science,7255,9.1,1504540,73.59,175,53.95,14.69
+463,University 463,Tamil Nadu,Tier 2,Government,Electrical Engineering,9122,7.41,756185,94.03,95,42.98,23.07
+463,University 463,Karnataka,Tier 3,Government,Mechanical Engineering,4266,7.53,1128424,67.09,73,63.47,12.78
+464,University 464,Karnataka,Tier 3,Government,Computer Science,5091,6.47,1115182,91.28,122,65.07,18.85
+464,University 464,Uttar Pradesh,Tier 2,Private,Electrical Engineering,8402,7.3,629314,89.16,180,53.47,13.81
+464,University 464,Maharashtra,Tier 2,Private,Mechanical Engineering,9753,8.02,1129321,91.93,173,28.11,14.09
+465,University 465,Tamil Nadu,Tier 1,Private,Computer Science,5177,6.7,893665,72.54,157,56.3,20.33
+465,University 465,Delhi,Tier 1,Private,Electrical Engineering,2496,8.86,927358,99.23,85,20.66,12.55
+465,University 465,Delhi,Tier 1,Private,Mechanical Engineering,1149,8.22,1403062,90.55,150,36.15,16.73
+466,University 466,Maharashtra,Tier 3,Private,Computer Science,1455,9.08,1558181,62.13,162,55.42,12.88
+466,University 466,Maharashtra,Tier 3,Government,Electrical Engineering,8123,7.04,1179427,63.98,97,25.93,16.24
+466,University 466,Tamil Nadu,Tier 3,Government,Mechanical Engineering,1362,8.08,1745643,81.21,98,65.75,13.85
+467,University 467,Tamil Nadu,Tier 2,Private,Computer Science,9822,8.08,389788,86.95,87,42.2,16.73
+467,University 467,Karnataka,Tier 1,Government,Electrical Engineering,8121,9.37,602912,80.31,98,45.57,14.98
+467,University 467,Delhi,Tier 3,Private,Mechanical Engineering,6153,9.36,1399984,79.37,171,62.32,16.26
+468,University 468,Tamil Nadu,Tier 3,Government,Computer Science,3481,6.61,1588223,71.1,156,43.97,24.79
+468,University 468,Karnataka,Tier 2,Private,Electrical Engineering,7881,7.96,394176,69.51,47,39.16,15.89
+468,University 468,Karnataka,Tier 2,Government,Mechanical Engineering,1016,8.39,1387820,87.45,99,70.91,16.02
+469,University 469,Karnataka,Tier 3,Private,Computer Science,4240,7.52,1712812,68.92,128,79.28,21.75
+469,University 469,Delhi,Tier 1,Government,Electrical Engineering,5315,6.92,1160276,83.07,114,73.35,20.13
+469,University 469,Tamil Nadu,Tier 2,Private,Mechanical Engineering,4411,7.69,1909524,87.58,197,67.93,12.05
+470,University 470,Maharashtra,Tier 2,Government,Computer Science,6426,7.4,1270317,78.34,40,38.5,23.27
+470,University 470,Karnataka,Tier 3,Private,Electrical Engineering,1302,7.9,1175551,64.37,73,29.62,15.09
+470,University 470,Tamil Nadu,Tier 3,Private,Mechanical Engineering,8361,8.99,1273810,75.88,129,57.66,15.63
+471,University 471,Karnataka,Tier 1,Government,Computer Science,9612,8.99,1621187,88.35,35,32.97,11.04
+471,University 471,Maharashtra,Tier 2,Private,Electrical Engineering,1445,6.39,1777111,82.22,68,32.0,11.43
+471,University 471,Delhi,Tier 2,Government,Mechanical Engineering,7834,8.98,318179,85.81,186,55.65,20.62
+472,University 472,Uttar Pradesh,Tier 1,Private,Computer Science,7470,8.84,1670606,78.49,135,45.43,17.64
+472,University 472,Tamil Nadu,Tier 2,Private,Electrical Engineering,4174,6.63,363910,93.68,33,65.66,17.87
+472,University 472,Delhi,Tier 2,Government,Mechanical Engineering,7995,6.43,637044,76.56,166,27.37,11.27
+473,University 473,Karnataka,Tier 3,Government,Computer Science,1770,8.08,981398,64.01,104,68.5,17.81
+473,University 473,Maharashtra,Tier 3,Government,Electrical Engineering,2275,8.74,1248002,65.11,176,75.05,20.2
+473,University 473,Tamil Nadu,Tier 2,Private,Mechanical Engineering,7212,8.24,1126862,69.77,161,22.67,21.77
+474,University 474,Delhi,Tier 1,Government,Computer Science,3197,7.18,1916752,92.47,23,35.95,12.27
+474,University 474,Delhi,Tier 3,Private,Electrical Engineering,7856,9.32,1074426,75.1,174,58.15,24.07
+474,University 474,Tamil Nadu,Tier 2,Government,Mechanical Engineering,3011,6.84,887453,98.79,118,33.05,23.93
+475,University 475,Uttar Pradesh,Tier 3,Government,Computer Science,2184,6.96,1379715,91.65,186,54.38,16.88
+475,University 475,Uttar Pradesh,Tier 1,Private,Electrical Engineering,5507,7.46,1312753,71.26,94,61.95,10.34
+475,University 475,Delhi,Tier 1,Private,Mechanical Engineering,5571,7.69,1447728,64.91,155,69.27,16.52
+476,University 476,Tamil Nadu,Tier 2,Private,Computer Science,3121,6.35,1933126,81.06,133,68.89,15.39
+476,University 476,Delhi,Tier 3,Private,Electrical Engineering,7017,8.67,823764,84.35,100,79.93,15.58
+476,University 476,Karnataka,Tier 3,Government,Mechanical Engineering,5923,8.2,1239944,68.63,143,41.32,18.61
+477,University 477,Karnataka,Tier 1,Government,Computer Science,8810,6.07,1502096,95.37,20,79.53,15.95
+477,University 477,Uttar Pradesh,Tier 2,Private,Electrical Engineering,8504,8.03,416775,68.73,181,34.21,17.54
+477,University 477,Karnataka,Tier 1,Government,Mechanical Engineering,3042,7.62,1168729,90.24,156,39.73,19.8
+478,University 478,Maharashtra,Tier 1,Private,Computer Science,6924,8.7,1478393,95.4,122,30.09,11.76
+478,University 478,Tamil Nadu,Tier 3,Private,Electrical Engineering,2876,6.46,1983568,99.38,93,40.73,12.23
+478,University 478,Uttar Pradesh,Tier 1,Private,Mechanical Engineering,4478,6.9,447745,94.25,164,52.21,18.42
+479,University 479,Tamil Nadu,Tier 1,Government,Computer Science,8264,8.28,1939873,87.82,112,66.08,12.46
+479,University 479,Uttar Pradesh,Tier 1,Private,Electrical Engineering,8490,6.21,1286291,82.78,46,64.71,11.91
+479,University 479,Tamil Nadu,Tier 2,Government,Mechanical Engineering,7099,7.43,968372,79.01,40,68.31,14.12
+480,University 480,Karnataka,Tier 1,Government,Computer Science,1951,9.25,1007518,72.89,68,38.45,24.77
+480,University 480,Maharashtra,Tier 1,Government,Electrical Engineering,8765,9.12,368582,69.76,179,62.91,10.55
+480,University 480,Karnataka,Tier 1,Government,Mechanical Engineering,4936,7.4,650912,94.71,73,70.35,23.65
+481,University 481,Maharashtra,Tier 1,Government,Computer Science,7506,7.98,972818,85.58,172,58.04,13.85
+481,University 481,Karnataka,Tier 3,Government,Electrical Engineering,7651,6.08,510244,91.94,61,34.37,13.32
+481,University 481,Uttar Pradesh,Tier 2,Government,Mechanical Engineering,4956,9.0,1700171,68.77,32,53.7,20.72
+482,University 482,Karnataka,Tier 1,Government,Computer Science,4179,9.05,1688475,86.39,49,58.49,22.27
+482,University 482,Maharashtra,Tier 2,Government,Electrical Engineering,9262,8.06,1879872,94.88,130,24.08,20.1
+482,University 482,Delhi,Tier 1,Government,Mechanical Engineering,8899,7.27,1272461,99.73,23,54.68,17.91
+483,University 483,Tamil Nadu,Tier 1,Private,Computer Science,7050,6.37,959834,72.01,65,31.64,12.43
+483,University 483,Uttar Pradesh,Tier 1,Private,Electrical Engineering,7356,8.71,924559,72.38,131,45.81,18.8
+483,University 483,Delhi,Tier 1,Government,Mechanical Engineering,7958,7.19,1072333,66.59,186,31.94,21.8
+484,University 484,Uttar Pradesh,Tier 2,Private,Computer Science,6798,8.59,818982,83.55,84,70.62,13.92
+484,University 484,Uttar Pradesh,Tier 1,Private,Electrical Engineering,6966,7.84,534046,62.52,103,21.83,24.55
+484,University 484,Maharashtra,Tier 3,Private,Mechanical Engineering,3526,7.28,955726,95.23,141,74.14,21.85
+485,University 485,Karnataka,Tier 3,Private,Computer Science,8485,8.65,1578208,60.59,145,48.77,18.77
+485,University 485,Tamil Nadu,Tier 3,Government,Electrical Engineering,9339,7.59,467856,73.28,191,69.54,24.05
+485,University 485,Maharashtra,Tier 1,Government,Mechanical Engineering,3995,7.72,1923723,60.24,154,27.13,22.74
+486,University 486,Maharashtra,Tier 1,Private,Computer Science,9067,7.55,334593,83.99,107,23.34,11.86
+486,University 486,Maharashtra,Tier 1,Government,Electrical Engineering,8820,6.23,1207779,82.43,26,27.3,10.98
+486,University 486,Uttar Pradesh,Tier 1,Government,Mechanical Engineering,4708,7.46,604422,98.29,38,66.8,17.17
+487,University 487,Delhi,Tier 2,Private,Computer Science,7347,9.0,1092650,68.13,67,56.95,11.95
+487,University 487,Tamil Nadu,Tier 3,Government,Electrical Engineering,4119,7.98,1203894,93.69,121,33.86,11.48
+487,University 487,Karnataka,Tier 2,Private,Mechanical Engineering,1937,7.58,1535789,60.84,155,55.62,17.77
+488,University 488,Maharashtra,Tier 1,Private,Computer Science,8159,8.4,578796,75.52,131,66.3,17.77
+488,University 488,Delhi,Tier 3,Private,Electrical Engineering,4865,6.32,433407,67.52,144,71.57,23.87
+488,University 488,Maharashtra,Tier 3,Government,Mechanical Engineering,4085,7.92,1045076,66.25,67,27.89,10.74
+489,University 489,Tamil Nadu,Tier 1,Private,Computer Science,3562,8.96,1334628,63.52,176,50.66,23.71
+489,University 489,Tamil Nadu,Tier 1,Government,Electrical Engineering,1666,7.08,1023130,81.92,107,52.79,16.33
+489,University 489,Maharashtra,Tier 1,Private,Mechanical Engineering,7704,6.33,1146430,75.49,151,70.49,16.47
+490,University 490,Uttar Pradesh,Tier 2,Government,Computer Science,4155,7.64,892328,86.54,138,20.22,17.98
+490,University 490,Delhi,Tier 1,Private,Electrical Engineering,1470,6.96,1015720,90.99,23,22.05,20.27
+490,University 490,Uttar Pradesh,Tier 1,Private,Mechanical Engineering,8407,6.11,800229,94.95,197,76.32,14.75
+491,University 491,Karnataka,Tier 3,Government,Computer Science,5996,8.52,338233,81.15,140,27.64,23.57
+491,University 491,Karnataka,Tier 1,Government,Electrical Engineering,2010,6.4,450933,92.85,173,70.86,13.16
+491,University 491,Tamil Nadu,Tier 1,Private,Mechanical Engineering,5268,6.61,359789,73.16,101,60.54,22.1
+492,University 492,Karnataka,Tier 3,Private,Computer Science,3555,6.09,1476414,77.92,133,50.14,15.08
+492,University 492,Maharashtra,Tier 3,Government,Electrical Engineering,7298,6.17,942059,94.04,115,32.53,12.95
+492,University 492,Delhi,Tier 3,Private,Mechanical Engineering,1938,7.59,1876834,84.42,62,43.76,24.75
+493,University 493,Maharashtra,Tier 2,Government,Computer Science,6950,6.97,1270513,80.93,157,63.6,17.65
+493,University 493,Tamil Nadu,Tier 1,Private,Electrical Engineering,9985,6.06,1174261,98.09,182,54.72,19.7
+493,University 493,Tamil Nadu,Tier 1,Private,Mechanical Engineering,1209,7.97,1325926,72.92,101,24.1,16.27
+494,University 494,Tamil Nadu,Tier 1,Government,Computer Science,5758,9.06,1980983,86.48,123,21.44,21.46
+494,University 494,Uttar Pradesh,Tier 1,Government,Electrical Engineering,4344,6.18,733073,68.06,111,57.65,18.49
+494,University 494,Uttar Pradesh,Tier 1,Private,Mechanical Engineering,3021,6.86,1764308,72.99,54,56.99,12.8
+495,University 495,Maharashtra,Tier 3,Private,Computer Science,8203,6.17,694079,76.27,165,78.77,21.96
+495,University 495,Tamil Nadu,Tier 3,Private,Electrical Engineering,8459,8.97,796626,77.06,20,77.25,21.6
+495,University 495,Karnataka,Tier 3,Private,Mechanical Engineering,3737,6.27,1927255,90.12,157,67.34,21.4
+496,University 496,Tamil Nadu,Tier 2,Government,Computer Science,7333,6.54,1211974,73.1,118,33.59,18.69
+496,University 496,Tamil Nadu,Tier 1,Private,Electrical Engineering,7723,7.11,1378849,64.54,142,70.14,13.45
+496,University 496,Karnataka,Tier 2,Government,Mechanical Engineering,8017,9.36,1432113,90.98,168,48.43,19.73
+497,University 497,Uttar Pradesh,Tier 1,Private,Computer Science,4600,8.58,1439269,77.18,40,75.4,11.09
+497,University 497,Tamil Nadu,Tier 1,Private,Electrical Engineering,7337,6.27,700337,93.54,29,42.61,19.42
+497,University 497,Tamil Nadu,Tier 2,Private,Mechanical Engineering,7957,7.2,1423852,75.08,152,46.8,14.15
+498,University 498,Uttar Pradesh,Tier 2,Government,Computer Science,6438,6.14,1114639,93.5,78,60.87,10.57
+498,University 498,Maharashtra,Tier 3,Private,Electrical Engineering,9276,9.12,1089106,84.15,56,24.36,20.71
+498,University 498,Delhi,Tier 3,Government,Mechanical Engineering,4190,7.79,1118838,96.24,153,76.48,18.83
+499,University 499,Karnataka,Tier 2,Private,Computer Science,8103,8.97,464772,71.71,155,50.15,12.63
+499,University 499,Delhi,Tier 1,Private,Electrical Engineering,2104,6.04,1478092,97.35,82,41.11,13.49
+499,University 499,Uttar Pradesh,Tier 3,Government,Mechanical Engineering,3802,9.02,357353,77.71,69,20.3,20.17
+500,University 500,Maharashtra,Tier 2,Private,Computer Science,1590,6.26,465201,64.01,86,42.75,16.98
+500,University 500,Karnataka,Tier 1,Private,Electrical Engineering,8101,7.24,708540,99.09,119,39.35,11.01
+500,University 500,Tamil Nadu,Tier 2,Private,Mechanical Engineering,7437,7.85,635681,99.68,93,76.16,11.43
